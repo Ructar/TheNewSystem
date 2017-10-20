@@ -1,0 +1,2121 @@
+[        15] Initializing Mono
+[        78] Initializing Mono completed
+[        94] Hello!
+[       156] Found new resource ArrestAnims in G:/LostRP\data/resources//ArrestAnims
+[       156] Found new resource async in G:/LostRP\data/resources//async
+[       172] Found new resource bob74_ipl in G:/LostRP\data/resources//bob74_ipl
+[       172] Found new resource chasse in G:/LostRP\data/resources//chasse
+[       172] Found new resource cron in G:/LostRP\data/resources//cron
+[       187] Found new resource esplugin_mysql in G:/LostRP\data/resources//esplugin_mysql
+[       187] Found new resource essentialmode in G:/LostRP\data/resources//essentialmode
+[       187] Found new resource esx_identity in G:/LostRP\data/resources//esx_identity
+[       203] Found new resource esx_map in G:/LostRP\data/resources//esx_map
+[       203] Found new resource fivem in G:/LostRP\data/resources//fivem
+[       203] Found new resource fivem-awesome1501 in G:/LostRP\data/resources//fivem-awesome1501
+[       219] Found new resource fivem-map-hipster in G:/LostRP\data/resources//fivem-map-hipster
+[       219] Found new resource fivem-map-skater in G:/LostRP\data/resources//fivem-map-skater
+[       219] Found new resource govmansion in G:/LostRP\data/resources//govmansion
+[       219] Found new resource instance in G:/LostRP\data/resources//instance
+[       219] Found new resource mysql-async in G:/LostRP\data/resources//mysql-async
+[       234] Found new resource nb_menuperso in G:/LostRP\data/resources//nb_menuperso
+[       234] Found new resource runcode in G:/LostRP\data/resources//runcode
+[       234] Found new resource TheWhiteHouse in G:/LostRP\data/resources//TheWhiteHouse
+[       250] Found new resource Ambulance in G:/LostRP\data/resources//[CAR]/Ambulance
+[       250] Found new resource ELS4FiveM in G:/LostRP\data/resources//[CAR]/ELS4FiveM
+[       250] Found new resource esx_AdvancedFuel in G:/LostRP\data/resources//[CAR]/esx_AdvancedFuel
+[       265] Found new resource esx_carwash in G:/LostRP\data/resources//[CAR]/esx_carwash
+[       265] Found new resource esx_eden_garage in G:/LostRP\data/resources//[CAR]/esx_eden_garage
+[       265] Found new resource FBI in G:/LostRP\data/resources//[CAR]/FBI
+[       265] Found new resource locksystem in G:/LostRP\data/resources//[CAR]/locksystem
+[       281] Found new resource LSPD in G:/LostRP\data/resources//[CAR]/LSPD
+[       281] Found new resource pv-cruisecontrol in G:/LostRP\data/resources//[CAR]/pv-cruisecontrol
+[       281] Found new resource pv-indicators in G:/LostRP\data/resources//[CAR]/pv-indicators
+[       297] Found new resource sexyspeedometer in G:/LostRP\data/resources//[CAR]/sexyspeedometer
+[       297] Found new resource Sheriff in G:/LostRP\data/resources//[CAR]/Sheriff
+[       297] Found new resource sirencontrols in G:/LostRP\data/resources//[CAR]/sirencontrols
+[       312] Found new resource towtruck in G:/LostRP\data/resources//[CAR]/towtruck
+[       312] Found new resource vehiclehealth in G:/LostRP\data/resources//[CAR]/vehiclehealth
+[       312] Found new resource es_admin2 in G:/LostRP\data/resources//[ESSENTIAL]/es_admin2
+[       312] Found new resource es_camera in G:/LostRP\data/resources//[ESSENTIAL]/es_camera
+[       328] Found new resource es_extended in G:/LostRP\data/resources//[ESSENTIAL]/es_extended
+[       328] Found new resource esx_addonaccount in G:/LostRP\data/resources//[esx]/esx_addonaccount
+[       328] Found new resource esx_addoninventory in G:/LostRP\data/resources//[esx]/esx_addoninventory
+[       344] Found new resource esx_ambulancejob in G:/LostRP\data/resources//[esx]/esx_ambulancejob
+[       344] Found new resource esx_animations in G:/LostRP\data/resources//[esx]/esx_animations
+[       344] Found new resource esx_atm in G:/LostRP\data/resources//[esx]/esx_atm
+[       359] Found new resource esx_bank in G:/LostRP\data/resources//[esx]/esx_bank
+[       359] Found new resource esx_bankerjob in G:/LostRP\data/resources//[esx]/esx_bankerjob
+[       359] Found new resource esx_barbershop in G:/LostRP\data/resources//[esx]/esx_barbershop
+[       375] Found new resource esx_basicneeds in G:/LostRP\data/resources//[esx]/esx_basicneeds
+[       375] Found new resource esx_billing in G:/LostRP\data/resources//[esx]/esx_billing
+[       375] Found new resource esx_boilerplate in G:/LostRP\data/resources//[esx]/esx_boilerplate
+[       375] Found new resource esx_busjob in G:/LostRP\data/resources//[esx]/esx_busjob
+[       390] Found new resource esx_clotheshop in G:/LostRP\data/resources//[esx]/esx_clotheshop
+[       390] Found new resource esx_coffeemachine in G:/LostRP\data/resources//[esx]/esx_coffeemachine
+[       390] Found new resource esx_datastore in G:/LostRP\data/resources//[esx]/esx_datastore
+[       406] Found new resource esx_discojob in G:/LostRP\data/resources//[esx]/esx_discojob
+[       406] Found new resource esx_dmvschool in G:/LostRP\data/resources//[esx]/esx_dmvschool
+[       406] Found new resource esx_drugs in G:/LostRP\data/resources//[esx]/esx_drugs
+[       422] Found new resource esx_farmerjob in G:/LostRP\data/resources//[esx]/esx_farmerjob
+[       422] Found new resource esx_gang in G:/LostRP\data/resources//[esx]/esx_gang
+[       422] Found new resource esx_garage in G:/LostRP\data/resources//[esx]/esx_garage
+[       437] Found new resource esx_holdup in G:/LostRP\data/resources//[esx]/esx_holdup
+[       437] Found new resource esx_joblisting in G:/LostRP\data/resources//[esx]/esx_joblisting
+[       437] Found new resource esx_jobs in G:/LostRP\data/resources//[esx]/esx_jobs
+[       453] Found new resource esx_license in G:/LostRP\data/resources//[esx]/esx_license
+[       453] Found new resource esx_lscustom in G:/LostRP\data/resources//[esx]/esx_lscustom
+[       453] Found new resource esx_mask in G:/LostRP\data/resources//[esx]/esx_mask
+[       469] Found new resource esx_mecanojob in G:/LostRP\data/resources//[esx]/esx_mecanojob
+[       469] Found new resource esx_optionalneeds in G:/LostRP\data/resources//[esx]/esx_optionalneeds
+[       469] Found new resource esx_pharmacy in G:/LostRP\data/resources//[esx]/esx_pharmacy
+[       484] Found new resource esx_phone in G:/LostRP\data/resources//[esx]/esx_phone
+[       484] Found new resource esx_policejob in G:/LostRP\data/resources//[esx]/esx_policejob
+[       484] Found new resource esx_presidentjob in G:/LostRP\data/resources//[esx]/esx_presidentjob
+[       484] Found new resource esx_property in G:/LostRP\data/resources//[esx]/esx_property
+[       500] Found new resource esx_realestateagentjob in G:/LostRP\data/resources//[esx]/esx_realestateagentjob
+[       500] Found new resource esx_rpchat in G:/LostRP\data/resources//[esx]/esx_rpchat
+[       500] Found new resource esx_service in G:/LostRP\data/resources//[esx]/esx_service
+[       515] Found new resource esx_shops in G:/LostRP\data/resources//[esx]/esx_shops
+[       515] Found new resource esx_sit in G:/LostRP\data/resources//[esx]/esx_sit
+[       515] Found new resource esx_skin in G:/LostRP\data/resources//[esx]/esx_skin
+[       531] Found new resource esx_society in G:/LostRP\data/resources//[esx]/esx_society
+[       531] Found new resource esx_SQjob in G:/LostRP\data/resources//[esx]/esx_SQjob
+[       531] Found new resource esx_status in G:/LostRP\data/resources//[esx]/esx_status
+[       531] Found new resource esx_taxijob in G:/LostRP\data/resources//[esx]/esx_taxijob
+[       547] Found new resource esx_truckerjob in G:/LostRP\data/resources//[esx]/esx_truckerjob
+[       547] Found new resource esx_vehicleshop in G:/LostRP\data/resources//[esx]/esx_vehicleshop
+[       547] Found new resource esx_vote in G:/LostRP\data/resources//[esx]/esx_vote
+[       562] Found new resource esx_weashops in G:/LostRP\data/resources//[esx]/esx_weashops
+[       562] Found new resource esx_whitelist in G:/LostRP\data/resources//[esx]/esx_whitelist
+[       562] Found new resource skinchanger in G:/LostRP\data/resources//[esx]/skinchanger
+[       578] Found new resource race in G:/LostRP\data/resources//[gamemodes]/race
+[       578] Found new resource race-test in G:/LostRP\data/resources//[gamemodes]/race-test
+[       578] Found new resource channelfeed in G:/LostRP\data/resources//[gameplay]/channelfeed
+[       594] Found new resource irc in G:/LostRP\data/resources//[gameplay]/irc
+[       594] Found new resource obituary in G:/LostRP\data/resources//[gameplay]/obituary
+[       594] Found new resource obituary-deaths in G:/LostRP\data/resources//[gameplay]/obituary-deaths
+[       594] Found new resource playernames in G:/LostRP\data/resources//[gameplay]/playernames
+[       609] Found new resource mapmanager in G:/LostRP\data/resources//[managers]/mapmanager
+[       609] Found new resource assets in G:/LostRP\data/resources//[other]/assets
+[       609] Found new resource esx_moneywash in G:/LostRP\data/resources//[other]/esx_moneywash
+[       609] Found new resource loadingscreen in G:/LostRP\data/resources//[other]/loadingscreen
+[       625] Found new resource mellotrainer in G:/LostRP\data/resources//[other]/mellotrainer
+[       625] Found new resource pNotify in G:/LostRP\data/resources//[other]/pNotify
+[       640] Found new resource PoliceVehiclesWeaponDeleter in G:/LostRP\data/resources//[other]/PoliceVehiclesWeaponDeleter
+[       640] Found new resource radar in G:/LostRP\data/resources//[other]/radar
+[       640] Found new resource streetLabel in G:/LostRP\data/resources//[other]/streetLabel
+[       640] Found new resource baseevents in G:/LostRP\data/resources//[system]/baseevents
+[       656] Found new resource chat in G:/LostRP\data/resources//[system]/chat
+[       656] Found new resource hardcap in G:/LostRP\data/resources//[system]/hardcap
+[       656] Found new resource rconlog in G:/LostRP\data/resources//[system]/rconlog
+[       672] Found new resource scoreboard in G:/LostRP\data/resources//[system]/scoreboard
+[       672] Found new resource sessionmanager in G:/LostRP\data/resources//[system]/sessionmanager
+[       672] Found new resource spawnmanager in G:/LostRP\data/resources//[system]/spawnmanager
+[       672] Found new resource betaguns in G:/LostRP\data/resources//[test]/betaguns
+[       687] Found new resource gameInit in G:/LostRP\data/resources//[test]/gameInit
+[       687] Found new resource keks in G:/LostRP\data/resources//[test]/keks
+[       687] Found new resource esx_menu_default in G:/LostRP\data/resources//[esx]/[ui]/esx_menu_default
+[       703] Found new resource esx_menu_dialog in G:/LostRP\data/resources//[esx]/[ui]/esx_menu_dialog
+[       703] Found new resource esx_menu_list in G:/LostRP\data/resources//[esx]/[ui]/esx_menu_list
+[       734] Started resource sessionmanager
+[      1375] Started resource assets
+[      1390] Started resource mapmanager
+[      1437] Started resource chat
+[      1453] Started resource spawnmanager
+[      1453] Stopping resource sessionmanager
+[      1484] Started resource sessionmanager
+[      1484] Started resource fivem
+[      1484] Started gametype Freeroam
+[      1500] Started resource hardcap
+[      1515] Started resource rconlog
+[      1531] Started resource scoreboard
+[      1547] Started resource baseevents
+[      1562] Started resource streetLabel
+[      1578] Started resource govmansion
+[      1578] Started resource TheWhiteHouse
+[      1859] Loaded MySQLAsync.net, Version=2.0.1.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_832998323
+[      1875] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1875] Started resource mysql-async
+[      1937] Started resource essentialmode
+[      2000] Started resource es_admin2
+[      2015] Started resource esplugin_mysql
+[      2094] Started resource es_extended
+[      2109] Started resource esx_moneywash
+[      2125] Started resource esx_carwash
+[      2140] Started resource es_camera
+[      2156] Started resource esx_map
+[      2219] Started resource pNotify
+[      2234] Started resource esx_rpchat
+[      2250] Started resource esx_whitelist
+[      2281] Started resource esx_menu_default
+[      2312] Started resource esx_menu_list
+[      2344] Started resource esx_menu_dialog
+[      2375] Started resource nb_menuperso
+[      2437] Started resource esx_phone
+[      2453] CRON STARTED [00:40]
+[      2453] Started resource cron
+[      2469] Started resource esx_addonaccount
+[      2484] Started resource esx_addoninventory
+[      2500] Started resource esx_datastore
+[      2531] Started resource esx_billing
+[      2547] Started resource esx_society
+[      2578] Started resource esx_policejob
+[      2594] Started resource esx_joblisting
+[      2609] Started resource skinchanger
+[      2640] Started resource esx_skin
+[      2656] Started resource esx_ambulancejob
+[      2687] Started resource esx_drugs
+[      2703] Started resource esx_holdup
+[      2734] Started resource esx_bank
+[      2765] Started resource esx_mecanojob
+[      2797] Started resource esx_jobs
+[      2812] Started resource instance
+[      2828] Started resource esx_service
+[      2844] Started resource esx_property
+[      2875] Started resource esx_garage
+[      2890] Started resource esx_eden_garage
+[      2922] Started resource esx_taxijob
+[      2937] Started resource esx_busjob
+[      2969] Started resource esx_clotheshop
+[      3000] Started resource esx_atm
+[      3031] Started resource esx_bankerjob
+[      3047] Started resource esx_status
+[      3078] Started resource esx_basicneeds
+[      3109] Started resource esx_vehicleshop
+[      3140] Started resource esx_realestateagentjob
+[      3156] Started resource esx_weashops
+[      3172] Started resource esx_shops
+[      3203] Started resource esx_barbershop
+[      3234] Started resource esx_mask
+[      3265] Started resource esx_lscustom
+[      3281] Started resource esx_sit
+[      3297] Started resource esx_optionalneeds
+[      3312] Started resource esx_animations
+[      3328] Started resource esx_identity
+[      3344] Started resource esx_license
+[      3390] Started resource esx_dmvschool
+[      3406] Started resource esx_pharmacy
+[      3422] Started resource esx_farmerjob
+[      3453] Started resource esx_presidentjob
+[      3469] Started resource esx_discojob
+[      3500] Started resource esx_truckerjob
+[      3515] Started resource esx_vote
+[      3531] Started resource chasse
+[      3547] Started resource radar
+[      3656] Started resource loadingscreen
+[      3672] Started resource bob74_ipl
+[      3750] Started resource mellotrainer
+[      3812] Started resource PoliceVehiclesWeaponDeleter
+[      3828] Luxart Siren Script For FiveReborn
+[      3828] Started resource ELS4FiveM
+[      3844] Started resource pv-indicators
+[      3875] Started resource esx_AdvancedFuel
+[      3906] Started resource vehiclehealth
+[      3906] Started resource sexyspeedometer
+[      4969] Started resource LSPD
+[      5000] Started resource Ambulance
+[      5219] Started resource Sheriff
+[      5375] Started resource FBI
+[      5437] Started resource towtruck
+[      5484] Started resource locksystem
+[      5484] Started resource pv-cruisecontrol
+[      5484] Could not open icon.png for reading.
+[      5609] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      5609] Sending heartbeat to live-internal.fivem.net:30110
+[      5609] 
+[      5609] Current version: 4.6.3
+[      5609] Updater version: 5.0.0
+[      5625] 
+[      5625] 
+[      5625] Version mismatch, you are currently not using the newest stable version of essentialmode. Please update
+[      5625] 
+[      5640] Started resource fivem-map-skater
+[      5640] Started map fivem-map-skater
+[      5703] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_832998323
+[      5828] hitch warning: frame time of 273 milliseconds
+[      5890] Loaded System.Threading.Tasks.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_832998323
+[      6000] Loaded System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_832998323
+[      6250] hitch warning: frame time of 425 milliseconds
+[      6656] 
+[      6656] Current MelloTrainer Version: 0.5.5
+[      6656] Latest MelloTrainer Version: 0.5.5
+[      6656] MelloTrainer is up to date!
+[      6672] MELLOTRAINER: mtsaves folder not found, attempting to create.
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[        47] Found new resource ArrestAnims in G:/LostRP\data/resources//ArrestAnims
+[        47] Found new resource async in G:/LostRP\data/resources//async
+[        62] Found new resource bob74_ipl in G:/LostRP\data/resources//bob74_ipl
+[        62] Found new resource chasse in G:/LostRP\data/resources//chasse
+[        62] Found new resource cron in G:/LostRP\data/resources//cron
+[        62] Found new resource esplugin_mysql in G:/LostRP\data/resources//esplugin_mysql
+[        78] Found new resource essentialmode in G:/LostRP\data/resources//essentialmode
+[        78] Found new resource esx_identity in G:/LostRP\data/resources//esx_identity
+[        78] Found new resource esx_map in G:/LostRP\data/resources//esx_map
+[        78] Found new resource fivem in G:/LostRP\data/resources//fivem
+[        94] Found new resource fivem-awesome1501 in G:/LostRP\data/resources//fivem-awesome1501
+[        94] Found new resource fivem-map-hipster in G:/LostRP\data/resources//fivem-map-hipster
+[        94] Found new resource fivem-map-skater in G:/LostRP\data/resources//fivem-map-skater
+[        94] Found new resource govmansion in G:/LostRP\data/resources//govmansion
+[        94] Found new resource instance in G:/LostRP\data/resources//instance
+[       109] Found new resource mysql-async in G:/LostRP\data/resources//mysql-async
+[       109] Found new resource nb_menuperso in G:/LostRP\data/resources//nb_menuperso
+[       109] Found new resource runcode in G:/LostRP\data/resources//runcode
+[       109] Found new resource TheWhiteHouse in G:/LostRP\data/resources//TheWhiteHouse
+[       125] Found new resource Ambulance in G:/LostRP\data/resources//[CAR]/Ambulance
+[       125] Found new resource ELS4FiveM in G:/LostRP\data/resources//[CAR]/ELS4FiveM
+[       125] Found new resource esx_AdvancedFuel in G:/LostRP\data/resources//[CAR]/esx_AdvancedFuel
+[       125] Found new resource esx_carwash in G:/LostRP\data/resources//[CAR]/esx_carwash
+[       141] Found new resource esx_eden_garage in G:/LostRP\data/resources//[CAR]/esx_eden_garage
+[       141] Found new resource FBI in G:/LostRP\data/resources//[CAR]/FBI
+[       141] Found new resource locksystem in G:/LostRP\data/resources//[CAR]/locksystem
+[       141] Found new resource LSPD in G:/LostRP\data/resources//[CAR]/LSPD
+[       141] Found new resource pv-cruisecontrol in G:/LostRP\data/resources//[CAR]/pv-cruisecontrol
+[       156] Found new resource pv-indicators in G:/LostRP\data/resources//[CAR]/pv-indicators
+[       156] Found new resource sexyspeedometer in G:/LostRP\data/resources//[CAR]/sexyspeedometer
+[       156] Found new resource Sheriff in G:/LostRP\data/resources//[CAR]/Sheriff
+[       156] Found new resource sirencontrols in G:/LostRP\data/resources//[CAR]/sirencontrols
+[       172] Found new resource towtruck in G:/LostRP\data/resources//[CAR]/towtruck
+[       172] Found new resource vehiclehealth in G:/LostRP\data/resources//[CAR]/vehiclehealth
+[       172] Found new resource es_admin2 in G:/LostRP\data/resources//[ESSENTIAL]/es_admin2
+[       172] Found new resource es_camera in G:/LostRP\data/resources//[ESSENTIAL]/es_camera
+[       187] Found new resource es_extended in G:/LostRP\data/resources//[ESSENTIAL]/es_extended
+[       187] Found new resource esx_addonaccount in G:/LostRP\data/resources//[esx]/esx_addonaccount
+[       187] Found new resource esx_addoninventory in G:/LostRP\data/resources//[esx]/esx_addoninventory
+[       187] Found new resource esx_ambulancejob in G:/LostRP\data/resources//[esx]/esx_ambulancejob
+[       203] Found new resource esx_animations in G:/LostRP\data/resources//[esx]/esx_animations
+[       203] Found new resource esx_atm in G:/LostRP\data/resources//[esx]/esx_atm
+[       203] Found new resource esx_bank in G:/LostRP\data/resources//[esx]/esx_bank
+[       203] Found new resource esx_bankerjob in G:/LostRP\data/resources//[esx]/esx_bankerjob
+[       203] Found new resource esx_barbershop in G:/LostRP\data/resources//[esx]/esx_barbershop
+[       219] Found new resource esx_basicneeds in G:/LostRP\data/resources//[esx]/esx_basicneeds
+[       219] Found new resource esx_billing in G:/LostRP\data/resources//[esx]/esx_billing
+[       219] Found new resource esx_boilerplate in G:/LostRP\data/resources//[esx]/esx_boilerplate
+[       219] Found new resource esx_busjob in G:/LostRP\data/resources//[esx]/esx_busjob
+[       234] Found new resource esx_clotheshop in G:/LostRP\data/resources//[esx]/esx_clotheshop
+[       234] Found new resource esx_coffeemachine in G:/LostRP\data/resources//[esx]/esx_coffeemachine
+[       234] Found new resource esx_datastore in G:/LostRP\data/resources//[esx]/esx_datastore
+[       234] Found new resource esx_discojob in G:/LostRP\data/resources//[esx]/esx_discojob
+[       250] Found new resource esx_dmvschool in G:/LostRP\data/resources//[esx]/esx_dmvschool
+[       250] Found new resource esx_drugs in G:/LostRP\data/resources//[esx]/esx_drugs
+[       250] Found new resource esx_farmerjob in G:/LostRP\data/resources//[esx]/esx_farmerjob
+[       250] Found new resource esx_gang in G:/LostRP\data/resources//[esx]/esx_gang
+[       266] Found new resource esx_garage in G:/LostRP\data/resources//[esx]/esx_garage
+[       266] Found new resource esx_holdup in G:/LostRP\data/resources//[esx]/esx_holdup
+[       266] Found new resource esx_joblisting in G:/LostRP\data/resources//[esx]/esx_joblisting
+[       266] Found new resource esx_jobs in G:/LostRP\data/resources//[esx]/esx_jobs
+[       281] Found new resource esx_license in G:/LostRP\data/resources//[esx]/esx_license
+[       281] Found new resource esx_lscustom in G:/LostRP\data/resources//[esx]/esx_lscustom
+[       281] Found new resource esx_mask in G:/LostRP\data/resources//[esx]/esx_mask
+[       281] Found new resource esx_mecanojob in G:/LostRP\data/resources//[esx]/esx_mecanojob
+[       297] Found new resource esx_optionalneeds in G:/LostRP\data/resources//[esx]/esx_optionalneeds
+[       297] Found new resource esx_pharmacy in G:/LostRP\data/resources//[esx]/esx_pharmacy
+[       297] Found new resource esx_phone in G:/LostRP\data/resources//[esx]/esx_phone
+[       297] Found new resource esx_policejob in G:/LostRP\data/resources//[esx]/esx_policejob
+[       312] Found new resource esx_presidentjob in G:/LostRP\data/resources//[esx]/esx_presidentjob
+[       312] Found new resource esx_property in G:/LostRP\data/resources//[esx]/esx_property
+[       312] Found new resource esx_realestateagentjob in G:/LostRP\data/resources//[esx]/esx_realestateagentjob
+[       312] Found new resource esx_rpchat in G:/LostRP\data/resources//[esx]/esx_rpchat
+[       328] Found new resource esx_service in G:/LostRP\data/resources//[esx]/esx_service
+[       328] Found new resource esx_shops in G:/LostRP\data/resources//[esx]/esx_shops
+[       328] Found new resource esx_sit in G:/LostRP\data/resources//[esx]/esx_sit
+[       328] Found new resource esx_skin in G:/LostRP\data/resources//[esx]/esx_skin
+[       328] Found new resource esx_society in G:/LostRP\data/resources//[esx]/esx_society
+[       344] Found new resource esx_SQjob in G:/LostRP\data/resources//[esx]/esx_SQjob
+[       344] Found new resource esx_status in G:/LostRP\data/resources//[esx]/esx_status
+[       344] Found new resource esx_taxijob in G:/LostRP\data/resources//[esx]/esx_taxijob
+[       344] Found new resource esx_truckerjob in G:/LostRP\data/resources//[esx]/esx_truckerjob
+[       359] Found new resource esx_vehicleshop in G:/LostRP\data/resources//[esx]/esx_vehicleshop
+[       359] Found new resource esx_vote in G:/LostRP\data/resources//[esx]/esx_vote
+[       359] Found new resource esx_weashops in G:/LostRP\data/resources//[esx]/esx_weashops
+[       359] Found new resource esx_whitelist in G:/LostRP\data/resources//[esx]/esx_whitelist
+[       375] Found new resource skinchanger in G:/LostRP\data/resources//[esx]/skinchanger
+[       375] Found new resource race in G:/LostRP\data/resources//[gamemodes]/race
+[       375] Found new resource race-test in G:/LostRP\data/resources//[gamemodes]/race-test
+[       375] Found new resource channelfeed in G:/LostRP\data/resources//[gameplay]/channelfeed
+[       391] Found new resource irc in G:/LostRP\data/resources//[gameplay]/irc
+[       391] Found new resource obituary in G:/LostRP\data/resources//[gameplay]/obituary
+[       391] Found new resource obituary-deaths in G:/LostRP\data/resources//[gameplay]/obituary-deaths
+[       391] Found new resource playernames in G:/LostRP\data/resources//[gameplay]/playernames
+[       406] Found new resource mapmanager in G:/LostRP\data/resources//[managers]/mapmanager
+[       406] Found new resource assets in G:/LostRP\data/resources//[other]/assets
+[       406] Found new resource esx_moneywash in G:/LostRP\data/resources//[other]/esx_moneywash
+[       406] Found new resource loadingscreen in G:/LostRP\data/resources//[other]/loadingscreen
+[       422] Found new resource mellotrainer in G:/LostRP\data/resources//[other]/mellotrainer
+[       422] Found new resource pNotify in G:/LostRP\data/resources//[other]/pNotify
+[       422] Found new resource PoliceVehiclesWeaponDeleter in G:/LostRP\data/resources//[other]/PoliceVehiclesWeaponDeleter
+[       437] Found new resource radar in G:/LostRP\data/resources//[other]/radar
+[       437] Found new resource streetLabel in G:/LostRP\data/resources//[other]/streetLabel
+[       437] Found new resource baseevents in G:/LostRP\data/resources//[system]/baseevents
+[       437] Found new resource chat in G:/LostRP\data/resources//[system]/chat
+[       453] Found new resource hardcap in G:/LostRP\data/resources//[system]/hardcap
+[       453] Found new resource rconlog in G:/LostRP\data/resources//[system]/rconlog
+[       453] Found new resource scoreboard in G:/LostRP\data/resources//[system]/scoreboard
+[       453] Found new resource sessionmanager in G:/LostRP\data/resources//[system]/sessionmanager
+[       469] Found new resource spawnmanager in G:/LostRP\data/resources//[system]/spawnmanager
+[       469] Found new resource betaguns in G:/LostRP\data/resources//[test]/betaguns
+[       469] Found new resource gameInit in G:/LostRP\data/resources//[test]/gameInit
+[       469] Found new resource keks in G:/LostRP\data/resources//[test]/keks
+[       484] Found new resource esx_menu_default in G:/LostRP\data/resources//[esx]/[ui]/esx_menu_default
+[       484] Found new resource esx_menu_dialog in G:/LostRP\data/resources//[esx]/[ui]/esx_menu_dialog
+[       484] Found new resource esx_menu_list in G:/LostRP\data/resources//[esx]/[ui]/esx_menu_list
+[       500] Started resource sessionmanager
+[       516] Started resource assets
+[       516] Started resource mapmanager
+[       516] Started resource chat
+[       531] Started resource spawnmanager
+[       531] Stopping resource sessionmanager
+[       531] Started resource sessionmanager
+[       531] Started resource fivem
+[       547] Started gametype Freeroam
+[       547] Started resource hardcap
+[       547] Started resource rconlog
+[       562] Started resource scoreboard
+[       562] Started resource baseevents
+[       562] Started resource streetLabel
+[       578] Started resource govmansion
+[       578] Started resource TheWhiteHouse
+[       844] Loaded MySQLAsync.net, Version=2.0.1.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1961210939
+[       844] Instantiated instance of script MySQLAsync.MySQLAsync.
+[       844] Started resource mysql-async
+[       891] Started resource essentialmode
+[       906] Started resource es_admin2
+[       906] Started resource esplugin_mysql
+[       922] Started resource es_extended
+[       937] Started resource esx_moneywash
+[       937] Started resource esx_carwash
+[       937] Started resource es_camera
+[       953] Started resource esx_map
+[       953] Started resource pNotify
+[       953] Started resource esx_rpchat
+[       969] Started resource esx_whitelist
+[       969] Started resource esx_menu_default
+[       969] Started resource esx_menu_list
+[       984] Started resource esx_menu_dialog
+[       984] Started resource nb_menuperso
+[      1000] Started resource esx_phone
+[      1000] CRON STARTED [00:41]
+[      1000] Started resource cron
+[      1016] Started resource esx_addonaccount
+[      1031] Started resource esx_addoninventory
+[      1031] Started resource esx_datastore
+[      1047] Started resource esx_billing
+[      1047] Started resource esx_society
+[      1062] Started resource esx_policejob
+[      1062] Started resource esx_joblisting
+[      1062] Started resource skinchanger
+[      1078] Started resource esx_skin
+[      1078] Started resource esx_ambulancejob
+[      1094] Started resource esx_drugs
+[      1094] Started resource esx_holdup
+[      1109] Started resource esx_bank
+[      1109] Started resource esx_mecanojob
+[      1125] Started resource esx_jobs
+[      1125] Started resource instance
+[      1141] Started resource esx_service
+[      1141] Started resource esx_property
+[      1156] Started resource esx_garage
+[      1156] Started resource esx_eden_garage
+[      1172] Started resource esx_taxijob
+[      1172] Started resource esx_busjob
+[      1187] Started resource esx_clotheshop
+[      1187] Started resource esx_atm
+[      1203] Started resource esx_bankerjob
+[      1203] Started resource esx_status
+[      1219] Started resource esx_basicneeds
+[      1219] Started resource esx_vehicleshop
+[      1234] Started resource esx_realestateagentjob
+[      1234] Started resource esx_weashops
+[      1250] Started resource esx_shops
+[      1250] Started resource esx_barbershop
+[      1266] Started resource esx_mask
+[      1266] Started resource esx_lscustom
+[      1281] Started resource esx_sit
+[      1281] Started resource esx_optionalneeds
+[      1297] Started resource esx_animations
+[      1297] Started resource esx_identity
+[      1312] Started resource esx_license
+[      1312] Started resource esx_dmvschool
+[      1328] Started resource esx_pharmacy
+[      1328] Started resource esx_farmerjob
+[      1344] Started resource esx_presidentjob
+[      1344] Started resource esx_discojob
+[      1359] Started resource esx_truckerjob
+[      1359] Started resource esx_vote
+[      1375] Started resource chasse
+[      1375] Started resource radar
+[      1437] Started resource loadingscreen
+[      1437] Started resource bob74_ipl
+[      1453] Started resource mellotrainer
+[      1453] Started resource PoliceVehiclesWeaponDeleter
+[      1453] Luxart Siren Script For FiveReborn
+[      1453] Started resource ELS4FiveM
+[      1469] Started resource pv-indicators
+[      1469] Started resource esx_AdvancedFuel
+[      1484] Started resource vehiclehealth
+[      1484] Started resource sexyspeedometer
+[      1484] Started resource LSPD
+[      1500] Started resource Ambulance
+[      1500] Started resource Sheriff
+[      1500] Started resource FBI
+[      1516] Started resource towtruck
+[      1516] Started resource locksystem
+[      1516] Started resource pv-cruisecontrol
+[      1516] Could not open icon.png for reading.
+[      1578] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      1578] Sending heartbeat to live-internal.fivem.net:30110
+[      1578] 
+[      1594] Current version: 5.0.0
+[      1594] Updater version: 5.0.0
+[      1594] 
+[      1594] Everything is fine!
+[      1594] 
+[      1609] Started resource fivem-map-hipster
+[      1609] Started map fivem-map-hipster
+[      1672] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1961210939
+[      1734] hitch warning: frame time of 161 milliseconds
+[      1766] Loaded System.Threading.Tasks.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1961210939
+[      1828] Loaded System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1961210939
+[      2078] hitch warning: frame time of 332 milliseconds
+[      2625] MELLOTRAINER: mtsaves folder found!
+[      2781] 
+[      2781] Current MelloTrainer Version: 0.5.5
+[      2781] Latest MelloTrainer Version: 0.5.5
+[      2781] MelloTrainer is up to date!
+[    120969] Connecting: Strinux<3
+[    128922] Sending heartbeat to live-internal.fivem.net:30110
+[    162094] MELLOTRAINER: Strinux<3 does not have a save file, creating one.
+[    196859] [ERROR] [MySQL] An error happens on MySQL for query "INSERT INTO characters (identifier, firstname, lastname, dateofbirth, sex, height) VALUES (@identifier, @firstname, @lastname, @dateofbirth, @sex, @height) {@dateofbirth=30/05/1993;@sex=m;@firstname=Lars;@height=65;@lastname=Stoltenborg;@identifier=steam:1100001033eaa76}": Field 'id' doesn't have a default value
+[    196875] Successfully Set Identity For steam:1100001033eaa76
+[    308937] Sending heartbeat to live-internal.fivem.net:30110
+[    470734] Sending heartbeat to live-internal.fivem.net:30110
+[    470937] [SAVED] Strinux<3
+[    504859] Connecting: Strinux<3
+[    507141] Sending heartbeat to live-internal.fivem.net:30110
+[    523500] MELLOTRAINER: Strinux<3 has a save file.
+[    524297] Successfully Loaded Identity For Lars Stoltenborg
+[    601375] [SAVED] Strinux<3
+[    601375] [SAVED] All players
+[    687156] Sending heartbeat to live-internal.fivem.net:30110
+[    722375] Sending heartbeat to live-internal.fivem.net:30110
+[    722672] [SAVED] Strinux<3
+[    744969] Connecting: Strinux<3
+[    747234] Sending heartbeat to live-internal.fivem.net:30110
+[    763594] MELLOTRAINER: Strinux<3 has a save file.
+[    764531] Successfully Loaded Identity For Lars Stoltenborg
+[    774547] Error running call reference function for resource esx_society: server/main.lua:363: attempt to index a nil value (local 'store')
+[    774547] stack traceback:
+[    774562] 	server/main.lua:363: in local 'ref'
+[    774562] 	citizen:/scripting/lua/scheduler.lua:317: in function <citizen:/scripting/lua/scheduler.lua:308>
+[    774562] 	[C]: in upvalue '_in'
+[    774562] 	citizen:/scripting/lua/natives_server.lua:243: in function 'TriggerEventInternal'
+[    774562] 	(...tail calls...)
+[    774578] 	server/main.lua:362: in local 'ref'
+[    774578] 	citizen:/scripting/lua/scheduler.lua:317: in function <citizen:/scripting/lua/scheduler.lua:308>
+[    774609] Error running system event handling function for resource esx_datastore: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+[    774625] stack traceback:
+[    774625] 	[C]: in function 'error'
+[    774625] 	citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+[    774625] 	citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+[    774625] 	citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+[    774641] 	citizen:/scripting/lua/scheduler.lua:378: in local 'cb'
+[    774641] 	server/main.lua:106: in upvalue 'handler'
+[    774641] 	citizen:/scripting/lua/scheduler.lua:163: in function <citizen:/scripting/lua/scheduler.lua:162>
+[    774641] stack traceback:
+[    774656] 	[C]: in function 'error'
+[    774656] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    774656] 	citizen:/scripting/lua/scheduler.lua:162: in function <citizen:/scripting/lua/scheduler.lua:131>
+[    775547] Error running call reference function for resource esx_society: server/main.lua:363: attempt to index a nil value (local 'store')
+[    775547] stack traceback:
+[    775562] 	server/main.lua:363: in local 'ref'
+[    775562] 	citizen:/scripting/lua/scheduler.lua:317: in function <citizen:/scripting/lua/scheduler.lua:308>
+[    775562] 	[C]: in upvalue '_in'
+[    775562] 	citizen:/scripting/lua/natives_server.lua:243: in function 'TriggerEventInternal'
+[    775578] 	(...tail calls...)
+[    775578] 	server/main.lua:362: in local 'ref'
+[    775578] 	citizen:/scripting/lua/scheduler.lua:317: in function <citizen:/scripting/lua/scheduler.lua:308>
+[    775609] Error running system event handling function for resource esx_datastore: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+[    775609] stack traceback:
+[    775609] 	[C]: in function 'error'
+[    775609] 	citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+[    775625] 	citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+[    775625] 	citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+[    775625] 	citizen:/scripting/lua/scheduler.lua:378: in local 'cb'
+[    775641] 	server/main.lua:106: in upvalue 'handler'
+[    775641] 	citizen:/scripting/lua/scheduler.lua:163: in function <citizen:/scripting/lua/scheduler.lua:162>
+[    775641] stack traceback:
+[    775656] 	[C]: in function 'error'
+[    775656] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    775656] 	citizen:/scripting/lua/scheduler.lua:162: in function <citizen:/scripting/lua/scheduler.lua:131>
+[    775672] Error running call reference function for resource esx_society: server/main.lua:363: attempt to index a nil value (local 'store')
+[    775687] stack traceback:
+[    775687] 	server/main.lua:363: in local 'ref'
+[    775687] 	citizen:/scripting/lua/scheduler.lua:317: in function <citizen:/scripting/lua/scheduler.lua:308>
+[    775703] 	[C]: in upvalue '_in'
+[    775703] 	citizen:/scripting/lua/natives_server.lua:243: in function 'TriggerEventInternal'
+[    775703] 	(...tail calls...)
+[    775719] 	server/main.lua:362: in local 'ref'
+[    775719] 	citizen:/scripting/lua/scheduler.lua:317: in function <citizen:/scripting/lua/scheduler.lua:308>
+[    775734] Error running system event handling function for resource esx_datastore: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+[    775734] stack traceback:
+[    775750] 	[C]: in function 'error'
+[    775750] 	citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+[    775750] 	citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+[    775766] 	citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+[    775766] 	citizen:/scripting/lua/scheduler.lua:378: in local 'cb'
+[    775766] 	server/main.lua:106: in upvalue 'handler'
+[    775781] 	citizen:/scripting/lua/scheduler.lua:163: in function <citizen:/scripting/lua/scheduler.lua:162>
+[    775781] stack traceback:
+[    775781] 	[C]: in function 'error'
+[    775797] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    775797] 	citizen:/scripting/lua/scheduler.lua:162: in function <citizen:/scripting/lua/scheduler.lua:131>
+[    779047] Error running call reference function for resource esx_society: server/main.lua:363: attempt to index a nil value (local 'store')
+[    779047] stack traceback:
+[    779062] 	server/main.lua:363: in local 'ref'
+[    779062] 	citizen:/scripting/lua/scheduler.lua:317: in function <citizen:/scripting/lua/scheduler.lua:308>
+[    779062] 	[C]: in upvalue '_in'
+[    779078] 	citizen:/scripting/lua/natives_server.lua:243: in function 'TriggerEventInternal'
+[    779078] 	(...tail calls...)
+[    779078] 	server/main.lua:362: in local 'ref'
+[    779094] 	citizen:/scripting/lua/scheduler.lua:317: in function <citizen:/scripting/lua/scheduler.lua:308>
+[    779109] Error running system event handling function for resource esx_datastore: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+[    779125] stack traceback:
+[    779125] 	[C]: in function 'error'
+[    779125] 	citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+[    779141] 	citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+[    779141] 	citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+[    779141] 	citizen:/scripting/lua/scheduler.lua:378: in local 'cb'
+[    779156] 	server/main.lua:106: in upvalue 'handler'
+[    779156] 	citizen:/scripting/lua/scheduler.lua:163: in function <citizen:/scripting/lua/scheduler.lua:162>
+[    779156] stack traceback:
+[    779172] 	[C]: in function 'error'
+[    779172] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    779172] 	citizen:/scripting/lua/scheduler.lua:162: in function <citizen:/scripting/lua/scheduler.lua:131>
+[    779344] Error running call reference function for resource esx_society: server/main.lua:363: attempt to index a nil value (local 'store')
+[    779359] stack traceback:
+[    779359] 	server/main.lua:363: in local 'ref'
+[    779359] 	citizen:/scripting/lua/scheduler.lua:317: in function <citizen:/scripting/lua/scheduler.lua:308>
+[    779375] 	[C]: in upvalue '_in'
+[    779375] 	citizen:/scripting/lua/natives_server.lua:243: in function 'TriggerEventInternal'
+[    779375] 	(...tail calls...)
+[    779391] 	server/main.lua:362: in local 'ref'
+[    779391] 	citizen:/scripting/lua/scheduler.lua:317: in function <citizen:/scripting/lua/scheduler.lua:308>
+[    779406] Error running system event handling function for resource esx_datastore: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+[    779406] stack traceback:
+[    779422] 	[C]: in function 'error'
+[    779422] 	citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+[    779422] 	citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+[    779437] 	citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+[    779437] 	citizen:/scripting/lua/scheduler.lua:378: in local 'cb'
+[    779437] 	server/main.lua:106: in upvalue 'handler'
+[    779437] 	citizen:/scripting/lua/scheduler.lua:163: in function <citizen:/scripting/lua/scheduler.lua:162>
+[    779453] stack traceback:
+[    779453] 	[C]: in function 'error'
+[    779453] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    779469] 	citizen:/scripting/lua/scheduler.lua:162: in function <citizen:/scripting/lua/scheduler.lua:131>
+[    846719] Sending heartbeat to live-internal.fivem.net:30110
+[    847109] [SAVED] Strinux<3
+[   1026781] Sending heartbeat to live-internal.fivem.net:30110
+[   1200937] [SAVED] All players
+[   1206797] Sending heartbeat to live-internal.fivem.net:30110
+[   1386844] Sending heartbeat to live-internal.fivem.net:30110
+[   1421828] Connecting: Strinux<3
+[   1424453] Sending heartbeat to live-internal.fivem.net:30110
+[   1460828] MELLOTRAINER: Strinux<3 has a save file.
+[   1461375] Successfully Loaded Identity For Lars Stoltenborg
+[   1604469] Sending heartbeat to live-internal.fivem.net:30110
+[   1784484] Sending heartbeat to live-internal.fivem.net:30110
+[   1801437] [SAVED] Strinux<3
+[   1801453] [SAVED] All players
+[   1964547] Sending heartbeat to live-internal.fivem.net:30110
+[   2144594] Sending heartbeat to live-internal.fivem.net:30110
+[   2324609] Sending heartbeat to live-internal.fivem.net:30110
+[   2401531] [SAVED] Strinux<3
+[   2401531] [SAVED] All players
+[   2504625] Sending heartbeat to live-internal.fivem.net:30110
+[   2684625] Sending heartbeat to live-internal.fivem.net:30110
+[   2864672] Sending heartbeat to live-internal.fivem.net:30110
+[   2865578] Sending heartbeat to live-internal.fivem.net:30110
+[   2865781] [SAVED] Strinux<3
+[   2888406] Connecting: Strinux<3
+[   2891031] Sending heartbeat to live-internal.fivem.net:30110
+[   2907500] MELLOTRAINER: Strinux<3 has a save file.
+[   2908437] Successfully Loaded Identity For Lars Stoltenborg
+[   3001562] [SAVED] Strinux<3
+[   3001578] [SAVED] All players
+[   3071047] Sending heartbeat to live-internal.fivem.net:30110
+[   3147672] Sending heartbeat to live-internal.fivem.net:30110
+[   3147875] [SAVED] Strinux<3
+[     21609] Initializing Mono
+[     21891] Initializing Mono completed
+[     21922] Hello!
+[     22063] Found new resource ArrestAnims in G:/LostRP\data/resources//ArrestAnims
+[     22078] Found new resource async in G:/LostRP\data/resources//async
+[     22094] Found new resource bob74_ipl in G:/LostRP\data/resources//bob74_ipl
+[     22094] Found new resource chasse in G:/LostRP\data/resources//chasse
+[     22109] Found new resource cron in G:/LostRP\data/resources//cron
+[     22109] Found new resource esplugin_mysql in G:/LostRP\data/resources//esplugin_mysql
+[     22109] Found new resource essentialmode in G:/LostRP\data/resources//essentialmode
+[     22125] Found new resource esx_identity in G:/LostRP\data/resources//esx_identity
+[     22125] Found new resource esx_map in G:/LostRP\data/resources//esx_map
+[     22141] Found new resource fivem in G:/LostRP\data/resources//fivem
+[     22141] Found new resource fivem-awesome1501 in G:/LostRP\data/resources//fivem-awesome1501
+[     22156] Found new resource fivem-map-hipster in G:/LostRP\data/resources//fivem-map-hipster
+[     22156] Found new resource fivem-map-skater in G:/LostRP\data/resources//fivem-map-skater
+[     22156] Found new resource govmansion in G:/LostRP\data/resources//govmansion
+[     22172] Found new resource instance in G:/LostRP\data/resources//instance
+[     22172] Found new resource mysql-async in G:/LostRP\data/resources//mysql-async
+[     22188] Found new resource nb_menuperso in G:/LostRP\data/resources//nb_menuperso
+[     22188] Found new resource runcode in G:/LostRP\data/resources//runcode
+[     22188] Found new resource TheWhiteHouse in G:/LostRP\data/resources//TheWhiteHouse
+[     22203] Found new resource Ambulance in G:/LostRP\data/resources//[CAR]/Ambulance
+[     22203] Found new resource ELS4FiveM in G:/LostRP\data/resources//[CAR]/ELS4FiveM
+[     22203] Found new resource esx_AdvancedFuel in G:/LostRP\data/resources//[CAR]/esx_AdvancedFuel
+[     22219] Found new resource esx_carwash in G:/LostRP\data/resources//[CAR]/esx_carwash
+[     22219] Found new resource esx_eden_garage in G:/LostRP\data/resources//[CAR]/esx_eden_garage
+[     22234] Found new resource FBI in G:/LostRP\data/resources//[CAR]/FBI
+[     22234] Found new resource locksystem in G:/LostRP\data/resources//[CAR]/locksystem
+[     22234] Found new resource LSPD in G:/LostRP\data/resources//[CAR]/LSPD
+[     22250] Found new resource pv-cruisecontrol in G:/LostRP\data/resources//[CAR]/pv-cruisecontrol
+[     22250] Found new resource pv-indicators in G:/LostRP\data/resources//[CAR]/pv-indicators
+[     22250] Found new resource sexyspeedometer in G:/LostRP\data/resources//[CAR]/sexyspeedometer
+[     22266] Found new resource Sheriff in G:/LostRP\data/resources//[CAR]/Sheriff
+[     22266] Found new resource sirencontrols in G:/LostRP\data/resources//[CAR]/sirencontrols
+[     22281] Found new resource towtruck in G:/LostRP\data/resources//[CAR]/towtruck
+[     22281] Found new resource vehiclehealth in G:/LostRP\data/resources//[CAR]/vehiclehealth
+[     22281] Found new resource es_admin2 in G:/LostRP\data/resources//[ESSENTIAL]/es_admin2
+[     22297] Found new resource es_camera in G:/LostRP\data/resources//[ESSENTIAL]/es_camera
+[     22297] Found new resource es_extended in G:/LostRP\data/resources//[ESSENTIAL]/es_extended
+[     22297] Found new resource esx_addonaccount in G:/LostRP\data/resources//[esx]/esx_addonaccount
+[     22313] Found new resource esx_addoninventory in G:/LostRP\data/resources//[esx]/esx_addoninventory
+[     22313] Found new resource esx_ambulancejob in G:/LostRP\data/resources//[esx]/esx_ambulancejob
+[     22328] Found new resource esx_animations in G:/LostRP\data/resources//[esx]/esx_animations
+[     22328] Found new resource esx_atm in G:/LostRP\data/resources//[esx]/esx_atm
+[     22328] Found new resource esx_bank in G:/LostRP\data/resources//[esx]/esx_bank
+[     22344] Found new resource esx_bankerjob in G:/LostRP\data/resources//[esx]/esx_bankerjob
+[     22344] Found new resource esx_barbershop in G:/LostRP\data/resources//[esx]/esx_barbershop
+[     22359] Found new resource esx_basicneeds in G:/LostRP\data/resources//[esx]/esx_basicneeds
+[     22359] Found new resource esx_billing in G:/LostRP\data/resources//[esx]/esx_billing
+[     22359] Found new resource esx_boilerplate in G:/LostRP\data/resources//[esx]/esx_boilerplate
+[     22375] Found new resource esx_busjob in G:/LostRP\data/resources//[esx]/esx_busjob
+[     22375] Found new resource esx_clotheshop in G:/LostRP\data/resources//[esx]/esx_clotheshop
+[     22391] Found new resource esx_coffeemachine in G:/LostRP\data/resources//[esx]/esx_coffeemachine
+[     22391] Found new resource esx_datastore in G:/LostRP\data/resources//[esx]/esx_datastore
+[     22391] Found new resource esx_discojob in G:/LostRP\data/resources//[esx]/esx_discojob
+[     22406] Found new resource esx_dmvschool in G:/LostRP\data/resources//[esx]/esx_dmvschool
+[     22406] Found new resource esx_drugs in G:/LostRP\data/resources//[esx]/esx_drugs
+[     22406] Found new resource esx_farmerjob in G:/LostRP\data/resources//[esx]/esx_farmerjob
+[     22422] Found new resource esx_gang in G:/LostRP\data/resources//[esx]/esx_gang
+[     22422] Found new resource esx_garage in G:/LostRP\data/resources//[esx]/esx_garage
+[     22438] Found new resource esx_holdup in G:/LostRP\data/resources//[esx]/esx_holdup
+[     22438] Found new resource esx_joblisting in G:/LostRP\data/resources//[esx]/esx_joblisting
+[     22438] Found new resource esx_jobs in G:/LostRP\data/resources//[esx]/esx_jobs
+[     22453] Found new resource esx_license in G:/LostRP\data/resources//[esx]/esx_license
+[     22453] Found new resource esx_lscustom in G:/LostRP\data/resources//[esx]/esx_lscustom
+[     22469] Found new resource esx_mask in G:/LostRP\data/resources//[esx]/esx_mask
+[     22469] Found new resource esx_mecanojob in G:/LostRP\data/resources//[esx]/esx_mecanojob
+[     22469] Found new resource esx_optionalneeds in G:/LostRP\data/resources//[esx]/esx_optionalneeds
+[     22484] Found new resource esx_pharmacy in G:/LostRP\data/resources//[esx]/esx_pharmacy
+[     22484] Found new resource esx_phone in G:/LostRP\data/resources//[esx]/esx_phone
+[     22500] Found new resource esx_policejob in G:/LostRP\data/resources//[esx]/esx_policejob
+[     22500] Found new resource esx_presidentjob in G:/LostRP\data/resources//[esx]/esx_presidentjob
+[     22500] Found new resource esx_property in G:/LostRP\data/resources//[esx]/esx_property
+[     22516] Found new resource esx_realestateagentjob in G:/LostRP\data/resources//[esx]/esx_realestateagentjob
+[     22516] Found new resource esx_rpchat in G:/LostRP\data/resources//[esx]/esx_rpchat
+[     22531] Found new resource esx_service in G:/LostRP\data/resources//[esx]/esx_service
+[     22531] Found new resource esx_shops in G:/LostRP\data/resources//[esx]/esx_shops
+[     22531] Found new resource esx_sit in G:/LostRP\data/resources//[esx]/esx_sit
+[     22547] Found new resource esx_skin in G:/LostRP\data/resources//[esx]/esx_skin
+[     22547] Found new resource esx_society in G:/LostRP\data/resources//[esx]/esx_society
+[     22563] Found new resource esx_SQjob in G:/LostRP\data/resources//[esx]/esx_SQjob
+[     22563] Found new resource esx_status in G:/LostRP\data/resources//[esx]/esx_status
+[     22563] Found new resource esx_taxijob in G:/LostRP\data/resources//[esx]/esx_taxijob
+[     22578] Found new resource esx_truckerjob in G:/LostRP\data/resources//[esx]/esx_truckerjob
+[     22578] Found new resource esx_vehicleshop in G:/LostRP\data/resources//[esx]/esx_vehicleshop
+[     22594] Found new resource esx_vote in G:/LostRP\data/resources//[esx]/esx_vote
+[     22594] Found new resource esx_weashops in G:/LostRP\data/resources//[esx]/esx_weashops
+[     22594] Found new resource esx_whitelist in G:/LostRP\data/resources//[esx]/esx_whitelist
+[     22609] Found new resource skinchanger in G:/LostRP\data/resources//[esx]/skinchanger
+[     22609] Found new resource race in G:/LostRP\data/resources//[gamemodes]/race
+[     22625] Found new resource race-test in G:/LostRP\data/resources//[gamemodes]/race-test
+[     22625] Found new resource channelfeed in G:/LostRP\data/resources//[gameplay]/channelfeed
+[     22625] Found new resource irc in G:/LostRP\data/resources//[gameplay]/irc
+[     22641] Found new resource obituary in G:/LostRP\data/resources//[gameplay]/obituary
+[     22641] Found new resource obituary-deaths in G:/LostRP\data/resources//[gameplay]/obituary-deaths
+[     22641] Found new resource playernames in G:/LostRP\data/resources//[gameplay]/playernames
+[     22656] Found new resource mapmanager in G:/LostRP\data/resources//[managers]/mapmanager
+[     22656] Found new resource assets in G:/LostRP\data/resources//[other]/assets
+[     22672] Found new resource esx_moneywash in G:/LostRP\data/resources//[other]/esx_moneywash
+[     22672] Found new resource loadingscreen in G:/LostRP\data/resources//[other]/loadingscreen
+[     22672] Found new resource mellotrainer in G:/LostRP\data/resources//[other]/mellotrainer
+[     22688] Found new resource pNotify in G:/LostRP\data/resources//[other]/pNotify
+[     22688] Found new resource PoliceVehiclesWeaponDeleter in G:/LostRP\data/resources//[other]/PoliceVehiclesWeaponDeleter
+[     22703] Found new resource radar in G:/LostRP\data/resources//[other]/radar
+[     22703] Found new resource streetLabel in G:/LostRP\data/resources//[other]/streetLabel
+[     22703] Found new resource baseevents in G:/LostRP\data/resources//[system]/baseevents
+[     22719] Found new resource chat in G:/LostRP\data/resources//[system]/chat
+[     22719] Found new resource hardcap in G:/LostRP\data/resources//[system]/hardcap
+[     22719] Found new resource rconlog in G:/LostRP\data/resources//[system]/rconlog
+[     22734] Found new resource scoreboard in G:/LostRP\data/resources//[system]/scoreboard
+[     22734] Found new resource sessionmanager in G:/LostRP\data/resources//[system]/sessionmanager
+[     22750] Found new resource spawnmanager in G:/LostRP\data/resources//[system]/spawnmanager
+[     22750] Found new resource betaguns in G:/LostRP\data/resources//[test]/betaguns
+[     22750] Found new resource gameInit in G:/LostRP\data/resources//[test]/gameInit
+[     22766] Found new resource keks in G:/LostRP\data/resources//[test]/keks
+[     22766] Found new resource esx_menu_default in G:/LostRP\data/resources//[esx]/[ui]/esx_menu_default
+[     22781] Found new resource esx_menu_dialog in G:/LostRP\data/resources//[esx]/[ui]/esx_menu_dialog
+[     22781] Found new resource esx_menu_list in G:/LostRP\data/resources//[esx]/[ui]/esx_menu_list
+[     22828] Started resource sessionmanager
+[     23016] Started resource assets
+[     23063] Started resource mapmanager
+[     23859] Started resource chat
+[     23906] Started resource spawnmanager
+[     23906] Stopping resource sessionmanager
+[     23922] Started resource sessionmanager
+[     23922] Started resource fivem
+[     23938] Started gametype Freeroam
+[     23953] Started resource hardcap
+[     23969] Started resource rconlog
+[     24797] Started resource scoreboard
+[     24938] Started resource baseevents
+[     25109] Started resource streetLabel
+[     25141] Started resource govmansion
+[     25172] Started resource TheWhiteHouse
+[     25516] Loaded MySQLAsync.net, Version=2.0.1.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1201541657
+[     25531] Instantiated instance of script MySQLAsync.MySQLAsync.
+[     25547] Started resource mysql-async
+[     25719] Started resource essentialmode
+[     25938] Started resource es_admin2
+[     25969] Started resource esplugin_mysql
+[     26188] Started resource es_extended
+[     26266] Started resource esx_moneywash
+[     26297] Started resource esx_carwash
+[     26344] Started resource es_camera
+[     26359] Started resource esx_map
+[     26469] Started resource pNotify
+[     26484] Started resource esx_rpchat
+[     26516] Started resource esx_whitelist
+[     26641] Started resource esx_menu_default
+[     27016] Started resource esx_menu_list
+[     27453] Started resource esx_menu_dialog
+[     27641] Started resource nb_menuperso
+[     28000] Started resource esx_phone
+[     28063] CRON STARTED [22:45]
+[     28172] Started resource cron
+[     28297] Started resource esx_addonaccount
+[     28422] Started resource esx_addoninventory
+[     28594] Started resource esx_datastore
+[     28781] Started resource esx_billing
+[     29094] Started resource esx_society
+[     29625] Started resource esx_policejob
+[     29734] Started resource esx_joblisting
+[     29922] Started resource skinchanger
+[     30016] Started resource esx_skin
+[     30375] Started resource esx_ambulancejob
+[     30625] Started resource esx_drugs
+[     31031] Started resource esx_holdup
+[     31219] Started resource esx_bank
+[     31313] Started resource esx_mecanojob
+[     31594] Started resource esx_jobs
+[     31672] Started resource instance
+[     31719] Started resource esx_service
+[     31844] Started resource esx_property
+[     32047] Started resource esx_garage
+[     32188] Started resource esx_eden_garage
+[     32859] Started resource esx_taxijob
+[     33609] Started resource esx_busjob
+[     33859] Started resource esx_clotheshop
+[     34547] Started resource esx_atm
+[     34688] Started resource esx_bankerjob
+[     34828] Started resource esx_status
+[     34938] Started resource esx_basicneeds
+[     35281] Started resource esx_vehicleshop
+[     35406] Started resource esx_realestateagentjob
+[     35469] Started resource esx_weashops
+[     35672] Started resource esx_shops
+[     35813] Started resource esx_barbershop
+[     35891] Started resource esx_mask
+[     36000] Started resource esx_lscustom
+[     36047] Started resource esx_sit
+[     36109] Started resource esx_optionalneeds
+[     36188] Started resource esx_animations
+[     36516] Started resource esx_identity
+[     36563] Started resource esx_license
+[     36813] Started resource esx_dmvschool
+[     36906] Started resource esx_pharmacy
+[     37000] Started resource esx_farmerjob
+[     37109] Started resource esx_presidentjob
+[     37172] Started resource esx_discojob
+[     37266] Started resource esx_truckerjob
+[     37313] Started resource esx_vote
+[     37391] Started resource chasse
+[     37453] Started resource radar
+[     38516] Started resource loadingscreen
+[     38625] Started resource bob74_ipl
+[     39438] Started resource mellotrainer
+[     39563] Started resource PoliceVehiclesWeaponDeleter
+[     39578] Luxart Siren Script For FiveReborn
+[     39625] Started resource ELS4FiveM
+[     39672] Started resource pv-indicators
+[     39828] Started resource esx_AdvancedFuel
+[     39906] Started resource vehiclehealth
+[     40016] Started resource sexyspeedometer
+[     41781] Started resource LSPD
+[     42281] Started resource Ambulance
+[     42672] Started resource Sheriff
+[     42938] Started resource FBI
+[     43156] Started resource towtruck
+[     43688] Started resource locksystem
+[     43750] Started resource pv-cruisecontrol
+[     43750] Could not open icon.png for reading.
+[     43891] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[     43906] Sending heartbeat to live-internal.fivem.net:30110
+[     43906] 
+[     43906] Current version: 5.0.0
+[     43906] Updater version: 5.0.0
+[     43906] 
+[     43922] Everything is fine!
+[     43922] 
+[     43984] Started resource fivem-map-hipster
+[     43984] Started map fivem-map-hipster
+[     44188] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1201541657
+[     44406] hitch warning: frame time of 578 milliseconds
+[     45063] Loaded System.Threading.Tasks.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1201541657
+[     45375] Loaded System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1201541657
+[     45719] 
+[     45734] Current MelloTrainer Version: 0.5.5
+[     45734] Latest MelloTrainer Version: 0.5.5
+[     45734] MelloTrainer is up to date!
+[     45750] MELLOTRAINER: mtsaves folder found!
+[     45766] hitch warning: frame time of 1362 milliseconds
+[     73172] Connecting: Strinux<3
+[     76406] Sending heartbeat to live-internal.fivem.net:30110
+[    147391] MELLOTRAINER: Strinux<3 has a save file.
+[    148141] Successfully Loaded Identity For Lars Stoltenborg
+[    256422] Sending heartbeat to live-internal.fivem.net:30110
+[    280031] Sending heartbeat to live-internal.fivem.net:30110
+[    280438] [SAVED] Strinux<3
+[    292078] Connecting: Strinux<3
+[    294391] Sending heartbeat to live-internal.fivem.net:30110
+[    310859] MELLOTRAINER: Strinux<3 has a save file.
+[    311750] Successfully Loaded Identity For Lars Stoltenborg
+[    321313] Error running call reference function for resource esx_society: server/main.lua:363: attempt to index a nil value (local 'store')
+[    321328] stack traceback:
+[    321328] 	server/main.lua:363: in local 'ref'
+[    321328] 	citizen:/scripting/lua/scheduler.lua:317: in function <citizen:/scripting/lua/scheduler.lua:308>
+[    321328] 	[C]: in upvalue '_in'
+[    321344] 	citizen:/scripting/lua/natives_server.lua:243: in function 'TriggerEventInternal'
+[    321344] 	(...tail calls...)
+[    321344] 	server/main.lua:362: in local 'ref'
+[    321344] 	citizen:/scripting/lua/scheduler.lua:317: in function <citizen:/scripting/lua/scheduler.lua:308>
+[    321375] Error running system event handling function for resource esx_datastore: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+[    321391] stack traceback:
+[    321391] 	[C]: in function 'error'
+[    321391] 	citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+[    321391] 	citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+[    321406] 	citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+[    321406] 	citizen:/scripting/lua/scheduler.lua:378: in local 'cb'
+[    321406] 	server/main.lua:106: in upvalue 'handler'
+[    321422] 	citizen:/scripting/lua/scheduler.lua:163: in function <citizen:/scripting/lua/scheduler.lua:162>
+[    321422] stack traceback:
+[    321422] 	[C]: in function 'error'
+[    321422] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    321438] 	citizen:/scripting/lua/scheduler.lua:162: in function <citizen:/scripting/lua/scheduler.lua:131>
+[    321453] Error running call reference function for resource esx_society: server/main.lua:363: attempt to index a nil value (local 'store')
+[    321453] stack traceback:
+[    321453] 	server/main.lua:363: in local 'ref'
+[    321453] 	citizen:/scripting/lua/scheduler.lua:317: in function <citizen:/scripting/lua/scheduler.lua:308>
+[    321469] 	[C]: in upvalue '_in'
+[    321469] 	citizen:/scripting/lua/natives_server.lua:243: in function 'TriggerEventInternal'
+[    321469] 	(...tail calls...)
+[    321469] 	server/main.lua:362: in local 'ref'
+[    321484] 	citizen:/scripting/lua/scheduler.lua:317: in function <citizen:/scripting/lua/scheduler.lua:308>
+[    321500] Error running system event handling function for resource esx_datastore: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+[    321500] stack traceback:
+[    321500] 	[C]: in function 'error'
+[    321516] 	citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+[    321516] 	citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+[    321516] 	citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+[    321531] 	citizen:/scripting/lua/scheduler.lua:378: in local 'cb'
+[    321531] 	server/main.lua:106: in upvalue 'handler'
+[    321531] 	citizen:/scripting/lua/scheduler.lua:163: in function <citizen:/scripting/lua/scheduler.lua:162>
+[    321547] stack traceback:
+[    321547] 	[C]: in function 'error'
+[    321547] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    321563] 	citizen:/scripting/lua/scheduler.lua:162: in function <citizen:/scripting/lua/scheduler.lua:131>
+[    323406] Error running call reference function for resource esx_society: server/main.lua:363: attempt to index a nil value (local 'store')
+[    323422] stack traceback:
+[    323422] 	server/main.lua:363: in local 'ref'
+[    323422] 	citizen:/scripting/lua/scheduler.lua:317: in function <citizen:/scripting/lua/scheduler.lua:308>
+[    323438] 	[C]: in upvalue '_in'
+[    323438] 	citizen:/scripting/lua/natives_server.lua:243: in function 'TriggerEventInternal'
+[    323438] 	(...tail calls...)
+[    323453] 	server/main.lua:362: in local 'ref'
+[    323453] 	citizen:/scripting/lua/scheduler.lua:317: in function <citizen:/scripting/lua/scheduler.lua:308>
+[    323469] Error running system event handling function for resource esx_datastore: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+[    323484] stack traceback:
+[    323484] 	[C]: in function 'error'
+[    323500] 	citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+[    323500] 	citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+[    323500] 	citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+[    323516] 	citizen:/scripting/lua/scheduler.lua:378: in local 'cb'
+[    323516] 	server/main.lua:106: in upvalue 'handler'
+[    323516] 	citizen:/scripting/lua/scheduler.lua:163: in function <citizen:/scripting/lua/scheduler.lua:162>
+[    323531] stack traceback:
+[    323531] 	[C]: in function 'error'
+[    323531] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    323547] 	citizen:/scripting/lua/scheduler.lua:162: in function <citizen:/scripting/lua/scheduler.lua:131>
+[    323563] Error running call reference function for resource esx_society: server/main.lua:363: attempt to index a nil value (local 'store')
+[    323563] stack traceback:
+[    323563] 	server/main.lua:363: in local 'ref'
+[    323578] 	citizen:/scripting/lua/scheduler.lua:317: in function <citizen:/scripting/lua/scheduler.lua:308>
+[    323578] 	[C]: in upvalue '_in'
+[    323578] 	citizen:/scripting/lua/natives_server.lua:243: in function 'TriggerEventInternal'
+[    323594] 	(...tail calls...)
+[    323594] 	server/main.lua:362: in local 'ref'
+[    323594] 	citizen:/scripting/lua/scheduler.lua:317: in function <citizen:/scripting/lua/scheduler.lua:308>
+[    323625] Error running system event handling function for resource esx_datastore: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+[    323625] stack traceback:
+[    323641] 	[C]: in function 'error'
+[    323641] 	citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+[    323641] 	citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+[    323656] 	citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+[    323656] 	citizen:/scripting/lua/scheduler.lua:378: in local 'cb'
+[    323672] 	server/main.lua:106: in upvalue 'handler'
+[    323672] 	citizen:/scripting/lua/scheduler.lua:163: in function <citizen:/scripting/lua/scheduler.lua:162>
+[    323672] stack traceback:
+[    323688] 	[C]: in function 'error'
+[    323688] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    323688] 	citizen:/scripting/lua/scheduler.lua:162: in function <citizen:/scripting/lua/scheduler.lua:131>
+[    367531] Error running call reference function for resource esx_society: server/main.lua:157: attempt to index a nil value (local 'store')
+[    367563] stack traceback:
+[    367563] 	server/main.lua:157: in local 'ref'
+[    367578] 	citizen:/scripting/lua/scheduler.lua:317: in function <citizen:/scripting/lua/scheduler.lua:308>
+[    367578] 	[C]: in function 'coroutine.resume'
+[    367578] 	citizen:/scripting/lua/scheduler.lua:34: in field 'CreateThreadNow'
+[    367594] 	citizen:/scripting/lua/scheduler.lua:162: in function <citizen:/scripting/lua/scheduler.lua:131>
+[    367609] Error running system event handling function for resource esx_datastore: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+[    367609] stack traceback:
+[    367625] 	[C]: in function 'error'
+[    367625] 	citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+[    367641] 	citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+[    367641] 	citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+[    367641] 	citizen:/scripting/lua/scheduler.lua:378: in local 'cb'
+[    367656] 	server/main.lua:106: in upvalue 'handler'
+[    367656] 	citizen:/scripting/lua/scheduler.lua:163: in function <citizen:/scripting/lua/scheduler.lua:162>
+[    367656] stack traceback:
+[    367672] 	[C]: in function 'error'
+[    367672] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    367672] 	citizen:/scripting/lua/scheduler.lua:162: in function <citizen:/scripting/lua/scheduler.lua:131>
+[    367688] hitch warning: frame time of 167 milliseconds
+[    378922] Error running call reference function for resource esx_society: server/main.lua:363: attempt to index a nil value (local 'store')
+[    378938] stack traceback:
+[    378938] 	server/main.lua:363: in local 'ref'
+[    378938] 	citizen:/scripting/lua/scheduler.lua:317: in function <citizen:/scripting/lua/scheduler.lua:308>
+[    378953] 	[C]: in upvalue '_in'
+[    378953] 	citizen:/scripting/lua/natives_server.lua:243: in function 'TriggerEventInternal'
+[    378953] 	(...tail calls...)
+[    378969] 	server/main.lua:362: in local 'ref'
+[    378969] 	citizen:/scripting/lua/scheduler.lua:317: in function <citizen:/scripting/lua/scheduler.lua:308>
+[    378984] Error running system event handling function for resource esx_datastore: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+[    379000] stack traceback:
+[    379000] 	[C]: in function 'error'
+[    379016] 	citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+[    379016] 	citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+[    379016] 	citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+[    379031] 	citizen:/scripting/lua/scheduler.lua:378: in local 'cb'
+[    379031] 	server/main.lua:106: in upvalue 'handler'
+[    379031] 	citizen:/scripting/lua/scheduler.lua:163: in function <citizen:/scripting/lua/scheduler.lua:162>
+[    379047] stack traceback:
+[    379047] 	[C]: in function 'error'
+[    379047] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    379063] 	citizen:/scripting/lua/scheduler.lua:162: in function <citizen:/scripting/lua/scheduler.lua:131>
+[    379984] Error running call reference function for resource esx_society: server/main.lua:363: attempt to index a nil value (local 'store')
+[    379984] stack traceback:
+[    379984] 	server/main.lua:363: in local 'ref'
+[    380000] 	citizen:/scripting/lua/scheduler.lua:317: in function <citizen:/scripting/lua/scheduler.lua:308>
+[    380000] 	[C]: in upvalue '_in'
+[    380000] 	citizen:/scripting/lua/natives_server.lua:243: in function 'TriggerEventInternal'
+[    380000] 	(...tail calls...)
+[    380016] 	server/main.lua:362: in local 'ref'
+[    380016] 	citizen:/scripting/lua/scheduler.lua:317: in function <citizen:/scripting/lua/scheduler.lua:308>
+[    380047] Error running system event handling function for resource esx_datastore: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+[    380047] stack traceback:
+[    380047] 	[C]: in function 'error'
+[    380063] 	citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+[    380063] 	citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+[    380078] 	citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+[    380078] 	citizen:/scripting/lua/scheduler.lua:378: in local 'cb'
+[    380078] 	server/main.lua:106: in upvalue 'handler'
+[    380094] 	citizen:/scripting/lua/scheduler.lua:163: in function <citizen:/scripting/lua/scheduler.lua:162>
+[    380094] stack traceback:
+[    380094] 	[C]: in function 'error'
+[    380109] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    380109] 	citizen:/scripting/lua/scheduler.lua:162: in function <citizen:/scripting/lua/scheduler.lua:131>
+[    380234] Error running call reference function for resource esx_society: server/main.lua:363: attempt to index a nil value (local 'store')
+[    380234] stack traceback:
+[    380234] 	server/main.lua:363: in local 'ref'
+[    380250] 	citizen:/scripting/lua/scheduler.lua:317: in function <citizen:/scripting/lua/scheduler.lua:308>
+[    380250] 	[C]: in upvalue '_in'
+[    380250] 	citizen:/scripting/lua/natives_server.lua:243: in function 'TriggerEventInternal'
+[    380266] 	(...tail calls...)
+[    380266] 	server/main.lua:362: in local 'ref'
+[    380266] 	citizen:/scripting/lua/scheduler.lua:317: in function <citizen:/scripting/lua/scheduler.lua:308>
+[    380297] Error running system event handling function for resource esx_datastore: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+[    380297] stack traceback:
+[    380313] 	[C]: in function 'error'
+[    380313] 	citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+[    380313] 	citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+[    380328] 	citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+[    380328] 	citizen:/scripting/lua/scheduler.lua:378: in local 'cb'
+[    380328] 	server/main.lua:106: in upvalue 'handler'
+[    380344] 	citizen:/scripting/lua/scheduler.lua:163: in function <citizen:/scripting/lua/scheduler.lua:162>
+[    380344] stack traceback:
+[    380344] 	[C]: in function 'error'
+[    380359] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    380359] 	citizen:/scripting/lua/scheduler.lua:162: in function <citizen:/scripting/lua/scheduler.lua:131>
+[    380375] Error running call reference function for resource esx_society: server/main.lua:363: attempt to index a nil value (local 'store')
+[    380375] stack traceback:
+[    380391] 	server/main.lua:363: in local 'ref'
+[    380391] 	citizen:/scripting/lua/scheduler.lua:317: in function <citizen:/scripting/lua/scheduler.lua:308>
+[    380391] 	[C]: in upvalue '_in'
+[    380406] 	citizen:/scripting/lua/natives_server.lua:243: in function 'TriggerEventInternal'
+[    380406] 	(...tail calls...)
+[    380406] 	server/main.lua:362: in local 'ref'
+[    380422] 	citizen:/scripting/lua/scheduler.lua:317: in function <citizen:/scripting/lua/scheduler.lua:308>
+[    380438] Error running system event handling function for resource esx_datastore: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+[    380453] stack traceback:
+[    380453] 	[C]: in function 'error'
+[    380453] 	citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+[    380469] 	citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+[    380469] 	citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+[    380469] 	citizen:/scripting/lua/scheduler.lua:378: in local 'cb'
+[    380484] 	server/main.lua:106: in upvalue 'handler'
+[    380484] 	citizen:/scripting/lua/scheduler.lua:163: in function <citizen:/scripting/lua/scheduler.lua:162>
+[    380500] stack traceback:
+[    380500] 	[C]: in function 'error'
+[    380500] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    380516] 	citizen:/scripting/lua/scheduler.lua:162: in function <citizen:/scripting/lua/scheduler.lua:131>
+[    389391] Error running call reference function for resource esx_society: server/main.lua:363: attempt to index a nil value (local 'store')
+[    389391] stack traceback:
+[    389406] 	server/main.lua:363: in local 'ref'
+[    389406] 	citizen:/scripting/lua/scheduler.lua:317: in function <citizen:/scripting/lua/scheduler.lua:308>
+[    389406] 	[C]: in upvalue '_in'
+[    389422] 	citizen:/scripting/lua/natives_server.lua:243: in function 'TriggerEventInternal'
+[    389422] 	(...tail calls...)
+[    389422] 	server/main.lua:362: in local 'ref'
+[    389438] 	citizen:/scripting/lua/scheduler.lua:317: in function <citizen:/scripting/lua/scheduler.lua:308>
+[    389453] Error running system event handling function for resource esx_datastore: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+[    389469] stack traceback:
+[    389469] 	[C]: in function 'error'
+[    389469] 	citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+[    389484] 	citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+[    389484] 	citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+[    389484] 	citizen:/scripting/lua/scheduler.lua:378: in local 'cb'
+[    389500] 	server/main.lua:106: in upvalue 'handler'
+[    389500] 	citizen:/scripting/lua/scheduler.lua:163: in function <citizen:/scripting/lua/scheduler.lua:162>
+[    389516] stack traceback:
+[    389516] 	[C]: in function 'error'
+[    389516] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    389531] 	citizen:/scripting/lua/scheduler.lua:162: in function <citizen:/scripting/lua/scheduler.lua:131>
+[    389531] hitch warning: frame time of 154 milliseconds
+[    470750] Sending heartbeat to live-internal.fivem.net:30110
+[    471047] [SAVED] Strinux<3
+[    493078] Connecting: Strinux<3
+[    495453] Sending heartbeat to live-internal.fivem.net:30110
+[    511719] MELLOTRAINER: Strinux<3 has a save file.
+[    512719] Successfully Loaded Identity For Lars Stoltenborg
+[    513469] Error running call reference function for resource es_extended: server/main.lua:210: attempt to index a nil value (field '?')
+[    513469] stack traceback:
+[    513469] 	server/main.lua:210: in local 'ref'
+[    513484] 	citizen:/scripting/lua/scheduler.lua:317: in function <citizen:/scripting/lua/scheduler.lua:308>
+[    513484] [ERROR] [MySQL] Check the error above, an error happens when executing the callback from the query : "SELECT * FROM `job_grades` WHERE `job_name` = @job_name AND `grade` = @grade {@job_name=trucker;@grade=3}"
+[    521719] Error running system event handling function for resource esx_status: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server/main.lua:71: attempt to index a nil value (local 'xPlayer')
+[    521734] stack traceback:
+[    521734] 	server/main.lua:71: in upvalue 'handler'
+[    521750] 	citizen:/scripting/lua/scheduler.lua:163: in function <citizen:/scripting/lua/scheduler.lua:162>
+[    521750] stack traceback:
+[    521750] 	[C]: in function 'error'
+[    521750] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    521766] 	citizen:/scripting/lua/scheduler.lua:162: in function <citizen:/scripting/lua/scheduler.lua:131>
+[    531734] Error running system event handling function for resource esx_status: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server/main.lua:71: attempt to index a nil value (local 'xPlayer')
+[    531734] stack traceback:
+[    531734] 	server/main.lua:71: in upvalue 'handler'
+[    531750] 	citizen:/scripting/lua/scheduler.lua:163: in function <citizen:/scripting/lua/scheduler.lua:162>
+[    531750] stack traceback:
+[    531750] 	[C]: in function 'error'
+[    531766] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    531766] 	citizen:/scripting/lua/scheduler.lua:162: in function <citizen:/scripting/lua/scheduler.lua:131>
+[    541734] Error running system event handling function for resource esx_status: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server/main.lua:71: attempt to index a nil value (local 'xPlayer')
+[    541734] stack traceback:
+[    541734] 	server/main.lua:71: in upvalue 'handler'
+[    541750] 	citizen:/scripting/lua/scheduler.lua:163: in function <citizen:/scripting/lua/scheduler.lua:162>
+[    541750] stack traceback:
+[    541750] 	[C]: in function 'error'
+[    541766] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    541766] 	citizen:/scripting/lua/scheduler.lua:162: in function <citizen:/scripting/lua/scheduler.lua:131>
+[    551734] Error running system event handling function for resource esx_status: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server/main.lua:71: attempt to index a nil value (local 'xPlayer')
+[    551734] stack traceback:
+[    551750] 	server/main.lua:71: in upvalue 'handler'
+[    551750] 	citizen:/scripting/lua/scheduler.lua:163: in function <citizen:/scripting/lua/scheduler.lua:162>
+[    551766] stack traceback:
+[    551766] 	[C]: in function 'error'
+[    551766] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    551781] 	citizen:/scripting/lua/scheduler.lua:162: in function <citizen:/scripting/lua/scheduler.lua:131>
+[    561734] Error running system event handling function for resource esx_status: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server/main.lua:71: attempt to index a nil value (local 'xPlayer')
+[    561766] stack traceback:
+[    561766] 	server/main.lua:71: in upvalue 'handler'
+[    561781] 	citizen:/scripting/lua/scheduler.lua:163: in function <citizen:/scripting/lua/scheduler.lua:162>
+[    561781] stack traceback:
+[    561797] 	[C]: in function 'error'
+[    561797] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    561813] 	citizen:/scripting/lua/scheduler.lua:162: in function <citizen:/scripting/lua/scheduler.lua:131>
+[    571750] Error running system event handling function for resource esx_status: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server/main.lua:71: attempt to index a nil value (local 'xPlayer')
+[    571766] stack traceback:
+[    571766] 	server/main.lua:71: in upvalue 'handler'
+[    571781] 	citizen:/scripting/lua/scheduler.lua:163: in function <citizen:/scripting/lua/scheduler.lua:162>
+[    571781] stack traceback:
+[    571797] 	[C]: in function 'error'
+[    571797] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    571813] 	citizen:/scripting/lua/scheduler.lua:162: in function <citizen:/scripting/lua/scheduler.lua:131>
+[    581750] Error running system event handling function for resource esx_status: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server/main.lua:71: attempt to index a nil value (local 'xPlayer')
+[    581781] stack traceback:
+[    581797] 	server/main.lua:71: in upvalue 'handler'
+[    581797] 	citizen:/scripting/lua/scheduler.lua:163: in function <citizen:/scripting/lua/scheduler.lua:162>
+[    581813] stack traceback:
+[    581813] 	[C]: in function 'error'
+[    581813] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    581828] 	citizen:/scripting/lua/scheduler.lua:162: in function <citizen:/scripting/lua/scheduler.lua:131>
+[    591750] Error running system event handling function for resource esx_status: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server/main.lua:71: attempt to index a nil value (local 'xPlayer')
+[    591750] stack traceback:
+[    591766] 	server/main.lua:71: in upvalue 'handler'
+[    591766] 	citizen:/scripting/lua/scheduler.lua:163: in function <citizen:/scripting/lua/scheduler.lua:162>
+[    591766] stack traceback:
+[    591781] 	[C]: in function 'error'
+[    591781] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    591797] 	citizen:/scripting/lua/scheduler.lua:162: in function <citizen:/scripting/lua/scheduler.lua:131>
+[    593891] Error running call reference function for resource nb_menuperso: server.lua:7: attempt to index a nil value (local 'xPlayer')
+[    593906] stack traceback:
+[    593906] 	server.lua:7: in local 'ref'
+[    593906] 	citizen:/scripting/lua/scheduler.lua:317: in function <citizen:/scripting/lua/scheduler.lua:308>
+[    593938] Error running system event handling function for resource es_extended: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+[    593938] stack traceback:
+[    593953] 	[C]: in function 'error'
+[    593953] 	citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+[    593969] 	citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+[    593969] 	citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+[    593969] 	citizen:/scripting/lua/scheduler.lua:378: in field '?'
+[    593984] 	server/functions.lua:48: in field 'TriggerServerCallback'
+[    593984] 	server/common.lua:73: in upvalue 'handler'
+[    593984] 	citizen:/scripting/lua/scheduler.lua:163: in function <citizen:/scripting/lua/scheduler.lua:162>
+[    594000] stack traceback:
+[    594000] 	[C]: in function 'error'
+[    594016] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    594016] 	citizen:/scripting/lua/scheduler.lua:162: in function <citizen:/scripting/lua/scheduler.lua:131>
+[    601750] Error running system event handling function for resource esx_status: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server/main.lua:71: attempt to index a nil value (local 'xPlayer')
+[    601750] stack traceback:
+[    601766] 	server/main.lua:71: in upvalue 'handler'
+[    601766] 	citizen:/scripting/lua/scheduler.lua:163: in function <citizen:/scripting/lua/scheduler.lua:162>
+[    601781] stack traceback:
+[    601781] 	[C]: in function 'error'
+[    601781] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    601797] 	citizen:/scripting/lua/scheduler.lua:162: in function <citizen:/scripting/lua/scheduler.lua:131>
+[    611750] Error running system event handling function for resource esx_status: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server/main.lua:71: attempt to index a nil value (local 'xPlayer')
+[    611766] stack traceback:
+[    611766] 	server/main.lua:71: in upvalue 'handler'
+[    611781] 	citizen:/scripting/lua/scheduler.lua:163: in function <citizen:/scripting/lua/scheduler.lua:162>
+[    611781] stack traceback:
+[    611781] 	[C]: in function 'error'
+[    611797] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    611797] 	citizen:/scripting/lua/scheduler.lua:162: in function <citizen:/scripting/lua/scheduler.lua:131>
+[    617250] Sending heartbeat to live-internal.fivem.net:30110
+[    628750] Initializing Mono
+[    628750] Initializing Mono completed
+[    628766] Hello!
+[    628797] Found new resource ArrestAnims in G:/LostRP\data/resources//ArrestAnims
+[    628813] Found new resource async in G:/LostRP\data/resources//async
+[    628813] Found new resource bob74_ipl in G:/LostRP\data/resources//bob74_ipl
+[    628813] Found new resource chasse in G:/LostRP\data/resources//chasse
+[    628828] Found new resource cron in G:/LostRP\data/resources//cron
+[    628828] Found new resource esplugin_mysql in G:/LostRP\data/resources//esplugin_mysql
+[    628844] Found new resource essentialmode in G:/LostRP\data/resources//essentialmode
+[    628844] Found new resource esx_identity in G:/LostRP\data/resources//esx_identity
+[    628844] Found new resource esx_map in G:/LostRP\data/resources//esx_map
+[    628859] Found new resource fivem in G:/LostRP\data/resources//fivem
+[    628859] Found new resource fivem-awesome1501 in G:/LostRP\data/resources//fivem-awesome1501
+[    628859] Found new resource fivem-map-hipster in G:/LostRP\data/resources//fivem-map-hipster
+[    628875] Found new resource fivem-map-skater in G:/LostRP\data/resources//fivem-map-skater
+[    628875] Found new resource govmansion in G:/LostRP\data/resources//govmansion
+[    628891] Found new resource instance in G:/LostRP\data/resources//instance
+[    628891] Found new resource mysql-async in G:/LostRP\data/resources//mysql-async
+[    628891] Found new resource nb_menuperso in G:/LostRP\data/resources//nb_menuperso
+[    628906] Found new resource runcode in G:/LostRP\data/resources//runcode
+[    628906] Found new resource TheWhiteHouse in G:/LostRP\data/resources//TheWhiteHouse
+[    628906] Found new resource Ambulance in G:/LostRP\data/resources//[CAR]/Ambulance
+[    628922] Found new resource ELS4FiveM in G:/LostRP\data/resources//[CAR]/ELS4FiveM
+[    628922] Found new resource esx_AdvancedFuel in G:/LostRP\data/resources//[CAR]/esx_AdvancedFuel
+[    628922] Found new resource esx_carwash in G:/LostRP\data/resources//[CAR]/esx_carwash
+[    628938] Found new resource esx_eden_garage in G:/LostRP\data/resources//[CAR]/esx_eden_garage
+[    628938] Found new resource FBI in G:/LostRP\data/resources//[CAR]/FBI
+[    628938] Found new resource locksystem in G:/LostRP\data/resources//[CAR]/locksystem
+[    628953] Found new resource LSPD in G:/LostRP\data/resources//[CAR]/LSPD
+[    628953] Found new resource pv-cruisecontrol in G:/LostRP\data/resources//[CAR]/pv-cruisecontrol
+[    628953] Found new resource pv-indicators in G:/LostRP\data/resources//[CAR]/pv-indicators
+[    628953] Found new resource sexyspeedometer in G:/LostRP\data/resources//[CAR]/sexyspeedometer
+[    628969] Found new resource Sheriff in G:/LostRP\data/resources//[CAR]/Sheriff
+[    628969] Found new resource sirencontrols in G:/LostRP\data/resources//[CAR]/sirencontrols
+[    628969] Found new resource towtruck in G:/LostRP\data/resources//[CAR]/towtruck
+[    628984] Found new resource vehiclehealth in G:/LostRP\data/resources//[CAR]/vehiclehealth
+[    628984] Found new resource es_admin2 in G:/LostRP\data/resources//[ESSENTIAL]/es_admin2
+[    628984] Found new resource es_camera in G:/LostRP\data/resources//[ESSENTIAL]/es_camera
+[    628984] Found new resource es_extended in G:/LostRP\data/resources//[ESSENTIAL]/es_extended
+[    629000] Found new resource esx_addonaccount in G:/LostRP\data/resources//[esx]/esx_addonaccount
+[    629000] Found new resource esx_addoninventory in G:/LostRP\data/resources//[esx]/esx_addoninventory
+[    629000] Found new resource esx_ambulancejob in G:/LostRP\data/resources//[esx]/esx_ambulancejob
+[    629016] Found new resource esx_animations in G:/LostRP\data/resources//[esx]/esx_animations
+[    629016] Found new resource esx_atm in G:/LostRP\data/resources//[esx]/esx_atm
+[    629016] Found new resource esx_bank in G:/LostRP\data/resources//[esx]/esx_bank
+[    629016] Found new resource esx_bankerjob in G:/LostRP\data/resources//[esx]/esx_bankerjob
+[    629016] Found new resource esx_barbershop in G:/LostRP\data/resources//[esx]/esx_barbershop
+[    629031] Found new resource esx_basicneeds in G:/LostRP\data/resources//[esx]/esx_basicneeds
+[    629031] Found new resource esx_billing in G:/LostRP\data/resources//[esx]/esx_billing
+[    629031] Found new resource esx_boilerplate in G:/LostRP\data/resources//[esx]/esx_boilerplate
+[    629031] Found new resource esx_busjob in G:/LostRP\data/resources//[esx]/esx_busjob
+[    629047] Found new resource esx_clotheshop in G:/LostRP\data/resources//[esx]/esx_clotheshop
+[    629047] Found new resource esx_coffeemachine in G:/LostRP\data/resources//[esx]/esx_coffeemachine
+[    629047] Found new resource esx_datastore in G:/LostRP\data/resources//[esx]/esx_datastore
+[    629047] Found new resource esx_discojob in G:/LostRP\data/resources//[esx]/esx_discojob
+[    629063] Found new resource esx_dmvschool in G:/LostRP\data/resources//[esx]/esx_dmvschool
+[    629063] Found new resource esx_drugs in G:/LostRP\data/resources//[esx]/esx_drugs
+[    629063] Found new resource esx_farmerjob in G:/LostRP\data/resources//[esx]/esx_farmerjob
+[    629063] Found new resource esx_gang in G:/LostRP\data/resources//[esx]/esx_gang
+[    629078] Found new resource esx_garage in G:/LostRP\data/resources//[esx]/esx_garage
+[    629078] Found new resource esx_holdup in G:/LostRP\data/resources//[esx]/esx_holdup
+[    629078] Found new resource esx_joblisting in G:/LostRP\data/resources//[esx]/esx_joblisting
+[    629094] Found new resource esx_jobs in G:/LostRP\data/resources//[esx]/esx_jobs
+[    629094] Found new resource esx_license in G:/LostRP\data/resources//[esx]/esx_license
+[    629094] Found new resource esx_lscustom in G:/LostRP\data/resources//[esx]/esx_lscustom
+[    629094] Found new resource esx_mask in G:/LostRP\data/resources//[esx]/esx_mask
+[    629109] Found new resource esx_mecanojob in G:/LostRP\data/resources//[esx]/esx_mecanojob
+[    629109] Found new resource esx_optionalneeds in G:/LostRP\data/resources//[esx]/esx_optionalneeds
+[    629109] Found new resource esx_pharmacy in G:/LostRP\data/resources//[esx]/esx_pharmacy
+[    629109] Found new resource esx_phone in G:/LostRP\data/resources//[esx]/esx_phone
+[    629125] Found new resource esx_policejob in G:/LostRP\data/resources//[esx]/esx_policejob
+[    629125] Found new resource esx_presidentjob in G:/LostRP\data/resources//[esx]/esx_presidentjob
+[    629125] Found new resource esx_property in G:/LostRP\data/resources//[esx]/esx_property
+[    629125] Found new resource esx_realestateagentjob in G:/LostRP\data/resources//[esx]/esx_realestateagentjob
+[    629141] Found new resource esx_rpchat in G:/LostRP\data/resources//[esx]/esx_rpchat
+[    629141] Found new resource esx_service in G:/LostRP\data/resources//[esx]/esx_service
+[    629141] Found new resource esx_shops in G:/LostRP\data/resources//[esx]/esx_shops
+[    629141] Found new resource esx_sit in G:/LostRP\data/resources//[esx]/esx_sit
+[    629156] Found new resource esx_skin in G:/LostRP\data/resources//[esx]/esx_skin
+[    629156] Found new resource esx_society in G:/LostRP\data/resources//[esx]/esx_society
+[    629156] Found new resource esx_SQjob in G:/LostRP\data/resources//[esx]/esx_SQjob
+[    629172] Found new resource esx_status in G:/LostRP\data/resources//[esx]/esx_status
+[    629172] Found new resource esx_taxijob in G:/LostRP\data/resources//[esx]/esx_taxijob
+[    629172] Found new resource esx_truckerjob in G:/LostRP\data/resources//[esx]/esx_truckerjob
+[    629172] Found new resource esx_vehicleshop in G:/LostRP\data/resources//[esx]/esx_vehicleshop
+[    629188] Found new resource esx_vote in G:/LostRP\data/resources//[esx]/esx_vote
+[    629188] Found new resource esx_weashops in G:/LostRP\data/resources//[esx]/esx_weashops
+[    629188] Found new resource esx_whitelist in G:/LostRP\data/resources//[esx]/esx_whitelist
+[    629188] Found new resource skinchanger in G:/LostRP\data/resources//[esx]/skinchanger
+[    629203] Found new resource race in G:/LostRP\data/resources//[gamemodes]/race
+[    629203] Found new resource race-test in G:/LostRP\data/resources//[gamemodes]/race-test
+[    629203] Found new resource channelfeed in G:/LostRP\data/resources//[gameplay]/channelfeed
+[    629219] Found new resource irc in G:/LostRP\data/resources//[gameplay]/irc
+[    629219] Found new resource obituary in G:/LostRP\data/resources//[gameplay]/obituary
+[    629219] Found new resource obituary-deaths in G:/LostRP\data/resources//[gameplay]/obituary-deaths
+[    629219] Found new resource playernames in G:/LostRP\data/resources//[gameplay]/playernames
+[    629234] Found new resource mapmanager in G:/LostRP\data/resources//[managers]/mapmanager
+[    629234] Found new resource assets in G:/LostRP\data/resources//[other]/assets
+[    629234] Found new resource esx_moneywash in G:/LostRP\data/resources//[other]/esx_moneywash
+[    629234] Found new resource loadingscreen in G:/LostRP\data/resources//[other]/loadingscreen
+[    629250] Found new resource mellotrainer in G:/LostRP\data/resources//[other]/mellotrainer
+[    629250] Found new resource pNotify in G:/LostRP\data/resources//[other]/pNotify
+[    629250] Found new resource PoliceVehiclesWeaponDeleter in G:/LostRP\data/resources//[other]/PoliceVehiclesWeaponDeleter
+[    629266] Found new resource radar in G:/LostRP\data/resources//[other]/radar
+[    629266] Found new resource streetLabel in G:/LostRP\data/resources//[other]/streetLabel
+[    629266] Found new resource baseevents in G:/LostRP\data/resources//[system]/baseevents
+[    629266] Found new resource chat in G:/LostRP\data/resources//[system]/chat
+[    629281] Found new resource hardcap in G:/LostRP\data/resources//[system]/hardcap
+[    629281] Found new resource rconlog in G:/LostRP\data/resources//[system]/rconlog
+[    629281] Found new resource scoreboard in G:/LostRP\data/resources//[system]/scoreboard
+[    629281] Found new resource sessionmanager in G:/LostRP\data/resources//[system]/sessionmanager
+[    629297] Found new resource spawnmanager in G:/LostRP\data/resources//[system]/spawnmanager
+[    629297] Found new resource betaguns in G:/LostRP\data/resources//[test]/betaguns
+[    629297] Found new resource gameInit in G:/LostRP\data/resources//[test]/gameInit
+[    629297] Found new resource keks in G:/LostRP\data/resources//[test]/keks
+[    629313] Found new resource esx_menu_default in G:/LostRP\data/resources//[esx]/[ui]/esx_menu_default
+[    629313] Found new resource esx_menu_dialog in G:/LostRP\data/resources//[esx]/[ui]/esx_menu_dialog
+[    629313] Found new resource esx_menu_list in G:/LostRP\data/resources//[esx]/[ui]/esx_menu_list
+[    629328] Started resource sessionmanager
+[    629391] Started resource assets
+[    629406] Started resource mapmanager
+[    629688] Started resource chat
+[    629719] Started resource spawnmanager
+[    629719] Stopping resource sessionmanager
+[    629719] Started resource sessionmanager
+[    629734] Started resource fivem
+[    629734] Started gametype Freeroam
+[    629734] Started resource hardcap
+[    629750] Started resource rconlog
+[    629844] Started resource scoreboard
+[    629875] Started resource baseevents
+[    629906] Started resource streetLabel
+[    629922] Started resource govmansion
+[    629938] Started resource TheWhiteHouse
+[    630188] Loaded MySQLAsync.net, Version=2.0.1.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1333594119
+[    630203] Instantiated instance of script MySQLAsync.MySQLAsync.
+[    630219] Started resource mysql-async
+[    630266] Started resource essentialmode
+[    630344] Started resource es_admin2
+[    630344] Started resource esplugin_mysql
+[    630500] Started resource es_extended
+[    630563] Started resource esx_moneywash
+[    630578] Started resource esx_carwash
+[    630609] Started resource es_camera
+[    630625] Started resource esx_map
+[    630703] Started resource pNotify
+[    630719] Started resource esx_rpchat
+[    630719] Started resource esx_whitelist
+[    630828] Started resource esx_menu_default
+[    630938] Started resource esx_menu_list
+[    631047] Started resource esx_menu_dialog
+[    631125] Started resource nb_menuperso
+[    631344] Started resource esx_phone
+[    631344] CRON STARTED [22:55]
+[    631344] Started resource cron
+[    631359] Started resource esx_addonaccount
+[    631359] Started resource esx_addoninventory
+[    631375] Started resource esx_datastore
+[    631391] Started resource esx_billing
+[    631406] Started resource esx_society
+[    631438] Started resource esx_policejob
+[    631469] Started resource esx_joblisting
+[    631500] Started resource skinchanger
+[    631531] Started resource esx_skin
+[    631563] Started resource esx_ambulancejob
+[    631578] Started resource esx_drugs
+[    631594] Started resource esx_holdup
+[    631625] Started resource esx_bank
+[    631641] Started resource esx_mecanojob
+[    631734] Started resource esx_jobs
+[    631750] Started resource instance
+[    631766] Started resource esx_service
+[    631781] Started resource esx_property
+[    631813] Started resource esx_garage
+[    631844] Started resource esx_eden_garage
+[    631875] Started resource esx_taxijob
+[    631891] Started resource esx_busjob
+[    631938] Started resource esx_clotheshop
+[    632047] Started resource esx_atm
+[    632063] Started resource esx_bankerjob
+[    632109] Started resource esx_status
+[    632125] Started resource esx_basicneeds
+[    632219] Started resource esx_vehicleshop
+[    632234] Started resource esx_realestateagentjob
+[    632250] Started resource esx_weashops
+[    632281] Started resource esx_shops
+[    632297] Started resource esx_barbershop
+[    632328] Started resource esx_mask
+[    632344] Started resource esx_lscustom
+[    632375] Started resource esx_sit
+[    632406] Started resource esx_optionalneeds
+[    632438] Started resource esx_animations
+[    632484] Started resource esx_identity
+[    632484] Started resource esx_license
+[    632563] Started resource esx_dmvschool
+[    632609] Started resource esx_pharmacy
+[    632641] Started resource esx_farmerjob
+[    632656] Started resource esx_presidentjob
+[    632688] Started resource esx_discojob
+[    632703] Started resource esx_truckerjob
+[    632734] Started resource esx_vote
+[    632766] Started resource chasse
+[    632828] Started resource radar
+[    633031] Started resource loadingscreen
+[    633078] Started resource bob74_ipl
+[    633422] Started resource mellotrainer
+[    633438] Started resource PoliceVehiclesWeaponDeleter
+[    633453] Luxart Siren Script For FiveReborn
+[    633453] Started resource ELS4FiveM
+[    633469] Started resource pv-indicators
+[    633547] Started resource esx_AdvancedFuel
+[    633578] Started resource vehiclehealth
+[    633625] Started resource sexyspeedometer
+[    634922] Started resource LSPD
+[    635016] Started resource Ambulance
+[    635250] Started resource Sheriff
+[    635438] Started resource FBI
+[    635547] Started resource towtruck
+[    635656] Started resource locksystem
+[    635672] Started resource pv-cruisecontrol
+[    635672] Could not open icon.png for reading.
+[    635781] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[    635781] Sending heartbeat to live-internal.fivem.net:30110
+[    635781] 
+[    635781] Current version: 5.0.0
+[    635797] Updater version: 5.0.0
+[    635797] 
+[    635797] Everything is fine!
+[    635797] 
+[    635844] Started resource fivem-map-skater
+[    635844] Started map fivem-map-skater
+[    635891] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1333594119
+[    635969] hitch warning: frame time of 239 milliseconds
+[    635984] Loaded System.Threading.Tasks.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1333594119
+[    636078] Loaded System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1333594119
+[    636328] hitch warning: frame time of 351 milliseconds
+[    636828] 
+[    636844] Current MelloTrainer Version: 0.5.5
+[    636844] Latest MelloTrainer Version: 0.5.5
+[    636844] MelloTrainer is up to date!
+[    636844] MELLOTRAINER: mtsaves folder found!
+[    641203] Connecting: Strinux<3
+[    643828] Sending heartbeat to live-internal.fivem.net:30110
+[    659797] MELLOTRAINER: Strinux<3 has a save file.
+[    660484] Successfully Loaded Identity For Lars Stoltenborg
+[    661188] Error running call reference function for resource es_extended: server/main.lua:210: attempt to index a nil value (field '?')
+[    661203] stack traceback:
+[    661203] 	server/main.lua:210: in local 'ref'
+[    661203] 	citizen:/scripting/lua/scheduler.lua:317: in function <citizen:/scripting/lua/scheduler.lua:308>
+[    661203] [ERROR] [MySQL] Check the error above, an error happens when executing the callback from the query : "SELECT * FROM `job_grades` WHERE `job_name` = @job_name AND `grade` = @grade {@grade=3;@job_name=trucker}"
+[    669906] Error running system event handling function for resource esx_status: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server/main.lua:71: attempt to index a nil value (local 'xPlayer')
+[    669922] stack traceback:
+[    669922] 	server/main.lua:71: in upvalue 'handler'
+[    669938] 	citizen:/scripting/lua/scheduler.lua:163: in function <citizen:/scripting/lua/scheduler.lua:162>
+[    669938] stack traceback:
+[    669938] 	[C]: in function 'error'
+[    669938] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    669953] 	citizen:/scripting/lua/scheduler.lua:162: in function <citizen:/scripting/lua/scheduler.lua:131>
+[    672094] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[         0] Initializing Mono completed
+[        16] Hello!
+[        47] Found new resource ArrestAnims in G:/LostRP\data/resources//ArrestAnims
+[        47] Found new resource async in G:/LostRP\data/resources//async
+[        63] Found new resource bob74_ipl in G:/LostRP\data/resources//bob74_ipl
+[        63] Found new resource chasse in G:/LostRP\data/resources//chasse
+[        63] Found new resource cron in G:/LostRP\data/resources//cron
+[        63] Found new resource esplugin_mysql in G:/LostRP\data/resources//esplugin_mysql
+[        78] Found new resource essentialmode in G:/LostRP\data/resources//essentialmode
+[        78] Found new resource esx_identity in G:/LostRP\data/resources//esx_identity
+[        78] Found new resource esx_map in G:/LostRP\data/resources//esx_map
+[        94] Found new resource fivem in G:/LostRP\data/resources//fivem
+[        94] Found new resource fivem-awesome1501 in G:/LostRP\data/resources//fivem-awesome1501
+[        94] Found new resource fivem-map-hipster in G:/LostRP\data/resources//fivem-map-hipster
+[        94] Found new resource fivem-map-skater in G:/LostRP\data/resources//fivem-map-skater
+[       109] Found new resource govmansion in G:/LostRP\data/resources//govmansion
+[       109] Found new resource instance in G:/LostRP\data/resources//instance
+[       109] Found new resource mysql-async in G:/LostRP\data/resources//mysql-async
+[       125] Found new resource nb_menuperso in G:/LostRP\data/resources//nb_menuperso
+[       125] Found new resource runcode in G:/LostRP\data/resources//runcode
+[       125] Found new resource TheWhiteHouse in G:/LostRP\data/resources//TheWhiteHouse
+[       125] Found new resource Ambulance in G:/LostRP\data/resources//[CAR]/Ambulance
+[       141] Found new resource ELS4FiveM in G:/LostRP\data/resources//[CAR]/ELS4FiveM
+[       141] Found new resource esx_AdvancedFuel in G:/LostRP\data/resources//[CAR]/esx_AdvancedFuel
+[       141] Found new resource esx_carwash in G:/LostRP\data/resources//[CAR]/esx_carwash
+[       156] Found new resource esx_eden_garage in G:/LostRP\data/resources//[CAR]/esx_eden_garage
+[       156] Found new resource FBI in G:/LostRP\data/resources//[CAR]/FBI
+[       156] Found new resource locksystem in G:/LostRP\data/resources//[CAR]/locksystem
+[       156] Found new resource LSPD in G:/LostRP\data/resources//[CAR]/LSPD
+[       172] Found new resource pv-cruisecontrol in G:/LostRP\data/resources//[CAR]/pv-cruisecontrol
+[       172] Found new resource pv-indicators in G:/LostRP\data/resources//[CAR]/pv-indicators
+[       172] Found new resource sexyspeedometer in G:/LostRP\data/resources//[CAR]/sexyspeedometer
+[       188] Found new resource Sheriff in G:/LostRP\data/resources//[CAR]/Sheriff
+[       188] Found new resource sirencontrols in G:/LostRP\data/resources//[CAR]/sirencontrols
+[       188] Found new resource towtruck in G:/LostRP\data/resources//[CAR]/towtruck
+[       188] Found new resource vehiclehealth in G:/LostRP\data/resources//[CAR]/vehiclehealth
+[       203] Found new resource es_admin2 in G:/LostRP\data/resources//[ESSENTIAL]/es_admin2
+[       203] Found new resource es_camera in G:/LostRP\data/resources//[ESSENTIAL]/es_camera
+[       203] Found new resource es_extended in G:/LostRP\data/resources//[ESSENTIAL]/es_extended
+[       203] Found new resource esx_addonaccount in G:/LostRP\data/resources//[esx]/esx_addonaccount
+[       219] Found new resource esx_addoninventory in G:/LostRP\data/resources//[esx]/esx_addoninventory
+[       219] Found new resource esx_ambulancejob in G:/LostRP\data/resources//[esx]/esx_ambulancejob
+[       219] Found new resource esx_animations in G:/LostRP\data/resources//[esx]/esx_animations
+[       219] Found new resource esx_atm in G:/LostRP\data/resources//[esx]/esx_atm
+[       234] Found new resource esx_bank in G:/LostRP\data/resources//[esx]/esx_bank
+[       234] Found new resource esx_bankerjob in G:/LostRP\data/resources//[esx]/esx_bankerjob
+[       234] Found new resource esx_barbershop in G:/LostRP\data/resources//[esx]/esx_barbershop
+[       234] Found new resource esx_basicneeds in G:/LostRP\data/resources//[esx]/esx_basicneeds
+[       250] Found new resource esx_billing in G:/LostRP\data/resources//[esx]/esx_billing
+[       250] Found new resource esx_boilerplate in G:/LostRP\data/resources//[esx]/esx_boilerplate
+[       250] Found new resource esx_busjob in G:/LostRP\data/resources//[esx]/esx_busjob
+[       250] Found new resource esx_clotheshop in G:/LostRP\data/resources//[esx]/esx_clotheshop
+[       266] Found new resource esx_coffeemachine in G:/LostRP\data/resources//[esx]/esx_coffeemachine
+[       266] Found new resource esx_datastore in G:/LostRP\data/resources//[esx]/esx_datastore
+[       266] Found new resource esx_discojob in G:/LostRP\data/resources//[esx]/esx_discojob
+[       266] Found new resource esx_dmvschool in G:/LostRP\data/resources//[esx]/esx_dmvschool
+[       266] Found new resource esx_drugs in G:/LostRP\data/resources//[esx]/esx_drugs
+[       281] Found new resource esx_farmerjob in G:/LostRP\data/resources//[esx]/esx_farmerjob
+[       281] Found new resource esx_gang in G:/LostRP\data/resources//[esx]/esx_gang
+[       281] Found new resource esx_garage in G:/LostRP\data/resources//[esx]/esx_garage
+[       281] Found new resource esx_holdup in G:/LostRP\data/resources//[esx]/esx_holdup
+[       297] Found new resource esx_joblisting in G:/LostRP\data/resources//[esx]/esx_joblisting
+[       297] Found new resource esx_jobs in G:/LostRP\data/resources//[esx]/esx_jobs
+[       297] Found new resource esx_license in G:/LostRP\data/resources//[esx]/esx_license
+[       297] Found new resource esx_lscustom in G:/LostRP\data/resources//[esx]/esx_lscustom
+[       313] Found new resource esx_mask in G:/LostRP\data/resources//[esx]/esx_mask
+[       313] Found new resource esx_mecanojob in G:/LostRP\data/resources//[esx]/esx_mecanojob
+[       313] Found new resource esx_optionalneeds in G:/LostRP\data/resources//[esx]/esx_optionalneeds
+[       313] Found new resource esx_pharmacy in G:/LostRP\data/resources//[esx]/esx_pharmacy
+[       328] Found new resource esx_phone in G:/LostRP\data/resources//[esx]/esx_phone
+[       328] Found new resource esx_policejob in G:/LostRP\data/resources//[esx]/esx_policejob
+[       328] Found new resource esx_presidentjob in G:/LostRP\data/resources//[esx]/esx_presidentjob
+[       328] Found new resource esx_property in G:/LostRP\data/resources//[esx]/esx_property
+[       344] Found new resource esx_realestateagentjob in G:/LostRP\data/resources//[esx]/esx_realestateagentjob
+[       344] Found new resource esx_rpchat in G:/LostRP\data/resources//[esx]/esx_rpchat
+[       344] Found new resource esx_service in G:/LostRP\data/resources//[esx]/esx_service
+[       344] Found new resource esx_shops in G:/LostRP\data/resources//[esx]/esx_shops
+[       359] Found new resource esx_sit in G:/LostRP\data/resources//[esx]/esx_sit
+[       359] Found new resource esx_skin in G:/LostRP\data/resources//[esx]/esx_skin
+[       359] Found new resource esx_society in G:/LostRP\data/resources//[esx]/esx_society
+[       359] Found new resource esx_SQjob in G:/LostRP\data/resources//[esx]/esx_SQjob
+[       375] Found new resource esx_status in G:/LostRP\data/resources//[esx]/esx_status
+[       375] Found new resource esx_taxijob in G:/LostRP\data/resources//[esx]/esx_taxijob
+[       375] Found new resource esx_truckerjob in G:/LostRP\data/resources//[esx]/esx_truckerjob
+[       375] Found new resource esx_vehicleshop in G:/LostRP\data/resources//[esx]/esx_vehicleshop
+[       391] Found new resource esx_vote in G:/LostRP\data/resources//[esx]/esx_vote
+[       391] Found new resource esx_weashops in G:/LostRP\data/resources//[esx]/esx_weashops
+[       391] Found new resource esx_whitelist in G:/LostRP\data/resources//[esx]/esx_whitelist
+[       391] Found new resource skinchanger in G:/LostRP\data/resources//[esx]/skinchanger
+[       406] Found new resource race in G:/LostRP\data/resources//[gamemodes]/race
+[       406] Found new resource race-test in G:/LostRP\data/resources//[gamemodes]/race-test
+[       406] Found new resource channelfeed in G:/LostRP\data/resources//[gameplay]/channelfeed
+[       406] Found new resource irc in G:/LostRP\data/resources//[gameplay]/irc
+[       422] Found new resource obituary in G:/LostRP\data/resources//[gameplay]/obituary
+[       422] Found new resource obituary-deaths in G:/LostRP\data/resources//[gameplay]/obituary-deaths
+[       422] Found new resource playernames in G:/LostRP\data/resources//[gameplay]/playernames
+[       422] Found new resource mapmanager in G:/LostRP\data/resources//[managers]/mapmanager
+[       438] Found new resource assets in G:/LostRP\data/resources//[other]/assets
+[       438] Found new resource esx_moneywash in G:/LostRP\data/resources//[other]/esx_moneywash
+[       438] Found new resource loadingscreen in G:/LostRP\data/resources//[other]/loadingscreen
+[       438] Found new resource mellotrainer in G:/LostRP\data/resources//[other]/mellotrainer
+[       453] Found new resource pNotify in G:/LostRP\data/resources//[other]/pNotify
+[       453] Found new resource PoliceVehiclesWeaponDeleter in G:/LostRP\data/resources//[other]/PoliceVehiclesWeaponDeleter
+[       453] Found new resource radar in G:/LostRP\data/resources//[other]/radar
+[       453] Found new resource streetLabel in G:/LostRP\data/resources//[other]/streetLabel
+[       453] Found new resource baseevents in G:/LostRP\data/resources//[system]/baseevents
+[       469] Found new resource chat in G:/LostRP\data/resources//[system]/chat
+[       469] Found new resource hardcap in G:/LostRP\data/resources//[system]/hardcap
+[       469] Found new resource rconlog in G:/LostRP\data/resources//[system]/rconlog
+[       484] Found new resource scoreboard in G:/LostRP\data/resources//[system]/scoreboard
+[       484] Found new resource sessionmanager in G:/LostRP\data/resources//[system]/sessionmanager
+[       484] Found new resource spawnmanager in G:/LostRP\data/resources//[system]/spawnmanager
+[       484] Found new resource betaguns in G:/LostRP\data/resources//[test]/betaguns
+[       484] Found new resource gameInit in G:/LostRP\data/resources//[test]/gameInit
+[       500] Found new resource keks in G:/LostRP\data/resources//[test]/keks
+[       500] Found new resource esx_menu_default in G:/LostRP\data/resources//[esx]/[ui]/esx_menu_default
+[       500] Found new resource esx_menu_dialog in G:/LostRP\data/resources//[esx]/[ui]/esx_menu_dialog
+[       500] Found new resource esx_menu_list in G:/LostRP\data/resources//[esx]/[ui]/esx_menu_list
+[       531] Started resource sessionmanager
+[       594] Started resource assets
+[       609] Started resource mapmanager
+[       813] Started resource chat
+[       828] Started resource spawnmanager
+[       828] Stopping resource sessionmanager
+[       828] Started resource sessionmanager
+[       844] Started resource fivem
+[       844] Started gametype Freeroam
+[       844] Started resource hardcap
+[       859] Started resource rconlog
+[       953] Started resource scoreboard
+[       984] Started resource baseevents
+[      1016] Started resource streetLabel
+[      1016] Started resource govmansion
+[      1031] Started resource TheWhiteHouse
+[      1297] Loaded MySQLAsync.net, Version=2.0.1.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_667075095
+[      1297] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1313] Started resource mysql-async
+[      1359] Started resource essentialmode
+[      1438] Started resource es_admin2
+[      1438] Started resource esplugin_mysql
+[      1578] Started resource es_extended
+[      1641] Started resource esx_moneywash
+[      1656] Started resource esx_carwash
+[      1672] Started resource es_camera
+[      1672] Started resource esx_map
+[      1734] Started resource pNotify
+[      1750] Started resource esx_rpchat
+[      1766] Started resource esx_whitelist
+[      1922] Started resource esx_menu_default
+[      2031] Started resource esx_menu_list
+[      2125] Started resource esx_menu_dialog
+[      2203] Started resource nb_menuperso
+[      2453] Started resource esx_phone
+[      2469] CRON STARTED [00:06]
+[      2469] Started resource cron
+[      2469] Started resource esx_addonaccount
+[      2484] Started resource esx_addoninventory
+[      2484] Started resource esx_datastore
+[      2500] Started resource esx_billing
+[      2531] Started resource esx_society
+[      2563] Started resource esx_policejob
+[      2578] Started resource esx_joblisting
+[      2609] Started resource skinchanger
+[      2641] Started resource esx_skin
+[      2656] Started resource esx_ambulancejob
+[      2688] Started resource esx_drugs
+[      2703] Started resource esx_holdup
+[      2719] Started resource esx_bank
+[      2734] Started resource esx_mecanojob
+[      2828] Started resource esx_jobs
+[      2844] Started resource instance
+[      2859] Started resource esx_service
+[      2891] Started resource esx_property
+[      2906] Started resource esx_garage
+[      2922] Started resource esx_eden_garage
+[      2953] Started resource esx_taxijob
+[      2969] Started resource esx_busjob
+[      2984] Started resource esx_clotheshop
+[      3031] Started resource esx_atm
+[      3063] Started resource esx_bankerjob
+[      3094] Started resource esx_status
+[      3125] Started resource esx_basicneeds
+[      3203] Started resource esx_vehicleshop
+[      3219] Started resource esx_realestateagentjob
+[      3266] Started resource esx_weashops
+[      3281] Started resource esx_shops
+[      3297] Started resource esx_barbershop
+[      3328] Started resource esx_mask
+[      3344] Started resource esx_lscustom
+[      3391] Started resource esx_sit
+[      3406] Started resource esx_optionalneeds
+[      3453] Started resource esx_animations
+[      3484] Started resource esx_identity
+[      3500] Started resource esx_license
+[      3578] Started resource esx_dmvschool
+[      3625] Started resource esx_pharmacy
+[      3656] Started resource esx_farmerjob
+[      3672] Started resource esx_presidentjob
+[      3688] Started resource esx_discojob
+[      3719] Started resource esx_truckerjob
+[      3750] Started resource esx_vote
+[      3766] Started resource chasse
+[      3828] Started resource radar
+[      4031] Started resource loadingscreen
+[      4078] Started resource bob74_ipl
+[      4391] Started resource mellotrainer
+[      4406] Started resource PoliceVehiclesWeaponDeleter
+[      4406] Luxart Siren Script For FiveReborn
+[      4422] Started resource ELS4FiveM
+[      4438] Started resource pv-indicators
+[      4516] Started resource esx_AdvancedFuel
+[      4563] Started resource vehiclehealth
+[      4625] Started resource sexyspeedometer
+[      5891] Started resource LSPD
+[      5984] Started resource Ambulance
+[      6234] Started resource Sheriff
+[      6422] Started resource FBI
+[      6484] Started resource towtruck
+[      6578] Started resource locksystem
+[      6594] Started resource pv-cruisecontrol
+[      6594] Could not open icon.png for reading.
+[      6703] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      6703] Sending heartbeat to live-internal.fivem.net:30110
+[      6703] 
+[      6719] Current version: 5.0.0
+[      6719] Updater version: 5.0.0
+[      6719] 
+[      6719] Everything is fine!
+[      6719] 
+[      6734] Started resource fivem-map-hipster
+[      6734] Started map fivem-map-hipster
+[      6781] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_667075095
+[      6859] hitch warning: frame time of 205 milliseconds
+[      6891] Loaded System.Threading.Tasks.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_667075095
+[      6969] Loaded System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_667075095
+[      7203] hitch warning: frame time of 340 milliseconds
+[      7750] 
+[      7766] Current MelloTrainer Version: 0.5.5
+[      7766] Latest MelloTrainer Version: 0.5.5
+[      7766] MelloTrainer is up to date!
+[      7766] MELLOTRAINER: mtsaves folder found!
+[     26328] Connecting: Strinux<3
+[     29109] Sending heartbeat to live-internal.fivem.net:30110
+[     61984] MELLOTRAINER: Strinux<3 has a save file.
+[    129531] [ERROR] [MySQL] An error happens on MySQL for query "INSERT INTO characters (identifier, firstname, lastname, dateofbirth, sex, height) VALUES (@identifier, @firstname, @lastname, @dateofbirth, @sex, @height) {@firstname=Lars Stoltenborg;@height=35;@sex=M;@lastname=Stoltenborg;@identifier=steam:1100001033eaa76;@dateofbirth=05/30/1993}": Field 'id' doesn't have a default value
+[    129563] Successfully Set Identity For steam:1100001033eaa76
+[    174922] Sending heartbeat to live-internal.fivem.net:30110
+[    175266] [SAVED] Strinux<3
+[    214156] Connecting: Strinux<3
+[    216484] Sending heartbeat to live-internal.fivem.net:30110
+[    232797] MELLOTRAINER: Strinux<3 has a save file.
+[    233688] Successfully Loaded Identity For Lars Stoltenborg Stoltenborg
+[    396484] Sending heartbeat to live-internal.fivem.net:30110
+[    576547] Sending heartbeat to live-internal.fivem.net:30110
+[    601953] [SAVED] Strinux<3
+[    601969] [SAVED] All players
+[    756594] Sending heartbeat to live-internal.fivem.net:30110
+[    936656] Sending heartbeat to live-internal.fivem.net:30110
+[   1116719] Sending heartbeat to live-internal.fivem.net:30110
+[   1166281] Sending heartbeat to live-internal.fivem.net:30110
+[   1166531] [SAVED] Strinux<3
+[   1188219] Initializing Mono
+[   1188219] Initializing Mono completed
+[   1188234] Hello!
+[   1188266] Found new resource ArrestAnims in G:/LostRP\data/resources//ArrestAnims
+[   1188266] Found new resource async in G:/LostRP\data/resources//async
+[   1188281] Found new resource bob74_ipl in G:/LostRP\data/resources//bob74_ipl
+[   1188281] Found new resource chasse in G:/LostRP\data/resources//chasse
+[   1188281] Found new resource cron in G:/LostRP\data/resources//cron
+[   1188281] Found new resource esplugin_mysql in G:/LostRP\data/resources//esplugin_mysql
+[   1188297] Found new resource essentialmode in G:/LostRP\data/resources//essentialmode
+[   1188297] Found new resource esx_identity in G:/LostRP\data/resources//esx_identity
+[   1188297] Found new resource esx_map in G:/LostRP\data/resources//esx_map
+[   1188297] Found new resource fivem in G:/LostRP\data/resources//fivem
+[   1188313] Found new resource fivem-awesome1501 in G:/LostRP\data/resources//fivem-awesome1501
+[   1188313] Found new resource fivem-map-hipster in G:/LostRP\data/resources//fivem-map-hipster
+[   1188313] Found new resource fivem-map-skater in G:/LostRP\data/resources//fivem-map-skater
+[   1188328] Found new resource govmansion in G:/LostRP\data/resources//govmansion
+[   1188328] Found new resource instance in G:/LostRP\data/resources//instance
+[   1188328] Found new resource mysql-async in G:/LostRP\data/resources//mysql-async
+[   1188328] Found new resource nb_menuperso in G:/LostRP\data/resources//nb_menuperso
+[   1188344] Found new resource runcode in G:/LostRP\data/resources//runcode
+[   1188344] Found new resource TheWhiteHouse in G:/LostRP\data/resources//TheWhiteHouse
+[   1188344] Found new resource Ambulance in G:/LostRP\data/resources//[CAR]/Ambulance
+[   1188344] Found new resource ELS4FiveM in G:/LostRP\data/resources//[CAR]/ELS4FiveM
+[   1188359] Found new resource esx_AdvancedFuel in G:/LostRP\data/resources//[CAR]/esx_AdvancedFuel
+[   1188359] Found new resource esx_carwash in G:/LostRP\data/resources//[CAR]/esx_carwash
+[   1188359] Found new resource esx_eden_garage in G:/LostRP\data/resources//[CAR]/esx_eden_garage
+[   1188359] Found new resource FBI in G:/LostRP\data/resources//[CAR]/FBI
+[   1188375] Found new resource locksystem in G:/LostRP\data/resources//[CAR]/locksystem
+[   1188375] Found new resource LSPD in G:/LostRP\data/resources//[CAR]/LSPD
+[   1188375] Found new resource pv-cruisecontrol in G:/LostRP\data/resources//[CAR]/pv-cruisecontrol
+[   1188375] Found new resource pv-indicators in G:/LostRP\data/resources//[CAR]/pv-indicators
+[   1188391] Found new resource sexyspeedometer in G:/LostRP\data/resources//[CAR]/sexyspeedometer
+[   1188391] Found new resource Sheriff in G:/LostRP\data/resources//[CAR]/Sheriff
+[   1188391] Found new resource sirencontrols in G:/LostRP\data/resources//[CAR]/sirencontrols
+[   1188391] Found new resource towtruck in G:/LostRP\data/resources//[CAR]/towtruck
+[   1188406] Found new resource vehiclehealth in G:/LostRP\data/resources//[CAR]/vehiclehealth
+[   1188406] Found new resource es_admin2 in G:/LostRP\data/resources//[ESSENTIAL]/es_admin2
+[   1188406] Found new resource es_camera in G:/LostRP\data/resources//[ESSENTIAL]/es_camera
+[   1188406] Found new resource es_extended in G:/LostRP\data/resources//[ESSENTIAL]/es_extended
+[   1188422] Found new resource esx_addonaccount in G:/LostRP\data/resources//[esx]/esx_addonaccount
+[   1188422] Found new resource esx_addoninventory in G:/LostRP\data/resources//[esx]/esx_addoninventory
+[   1188422] Found new resource esx_ambulancejob in G:/LostRP\data/resources//[esx]/esx_ambulancejob
+[   1188422] Found new resource esx_animations in G:/LostRP\data/resources//[esx]/esx_animations
+[   1188438] Found new resource esx_atm in G:/LostRP\data/resources//[esx]/esx_atm
+[   1188438] Found new resource esx_bank in G:/LostRP\data/resources//[esx]/esx_bank
+[   1188438] Found new resource esx_bankerjob in G:/LostRP\data/resources//[esx]/esx_bankerjob
+[   1188438] Found new resource esx_barbershop in G:/LostRP\data/resources//[esx]/esx_barbershop
+[   1188453] Found new resource esx_basicneeds in G:/LostRP\data/resources//[esx]/esx_basicneeds
+[   1188453] Found new resource esx_billing in G:/LostRP\data/resources//[esx]/esx_billing
+[   1188453] Found new resource esx_boilerplate in G:/LostRP\data/resources//[esx]/esx_boilerplate
+[   1188453] Found new resource esx_busjob in G:/LostRP\data/resources//[esx]/esx_busjob
+[   1188469] Found new resource esx_clotheshop in G:/LostRP\data/resources//[esx]/esx_clotheshop
+[   1188469] Found new resource esx_coffeemachine in G:/LostRP\data/resources//[esx]/esx_coffeemachine
+[   1188469] Found new resource esx_datastore in G:/LostRP\data/resources//[esx]/esx_datastore
+[   1188469] Found new resource esx_discojob in G:/LostRP\data/resources//[esx]/esx_discojob
+[   1188484] Found new resource esx_dmvschool in G:/LostRP\data/resources//[esx]/esx_dmvschool
+[   1188484] Found new resource esx_drugs in G:/LostRP\data/resources//[esx]/esx_drugs
+[   1188484] Found new resource esx_farmerjob in G:/LostRP\data/resources//[esx]/esx_farmerjob
+[   1188500] Found new resource esx_gang in G:/LostRP\data/resources//[esx]/esx_gang
+[   1188500] Found new resource esx_garage in G:/LostRP\data/resources//[esx]/esx_garage
+[   1188500] Found new resource esx_holdup in G:/LostRP\data/resources//[esx]/esx_holdup
+[   1188500] Found new resource esx_joblisting in G:/LostRP\data/resources//[esx]/esx_joblisting
+[   1188516] Found new resource esx_jobs in G:/LostRP\data/resources//[esx]/esx_jobs
+[   1188516] Found new resource esx_license in G:/LostRP\data/resources//[esx]/esx_license
+[   1188516] Found new resource esx_lscustom in G:/LostRP\data/resources//[esx]/esx_lscustom
+[   1188516] Found new resource esx_mask in G:/LostRP\data/resources//[esx]/esx_mask
+[   1188531] Found new resource esx_mecanojob in G:/LostRP\data/resources//[esx]/esx_mecanojob
+[   1188531] Found new resource esx_optionalneeds in G:/LostRP\data/resources//[esx]/esx_optionalneeds
+[   1188531] Found new resource esx_pharmacy in G:/LostRP\data/resources//[esx]/esx_pharmacy
+[   1188547] Found new resource esx_phone in G:/LostRP\data/resources//[esx]/esx_phone
+[   1188547] Found new resource esx_policejob in G:/LostRP\data/resources//[esx]/esx_policejob
+[   1188547] Found new resource esx_presidentjob in G:/LostRP\data/resources//[esx]/esx_presidentjob
+[   1188547] Found new resource esx_property in G:/LostRP\data/resources//[esx]/esx_property
+[   1188563] Found new resource esx_realestateagentjob in G:/LostRP\data/resources//[esx]/esx_realestateagentjob
+[   1188563] Found new resource esx_rpchat in G:/LostRP\data/resources//[esx]/esx_rpchat
+[   1188563] Found new resource esx_service in G:/LostRP\data/resources//[esx]/esx_service
+[   1188563] Found new resource esx_shops in G:/LostRP\data/resources//[esx]/esx_shops
+[   1188578] Found new resource esx_sit in G:/LostRP\data/resources//[esx]/esx_sit
+[   1188578] Found new resource esx_skin in G:/LostRP\data/resources//[esx]/esx_skin
+[   1188578] Found new resource esx_society in G:/LostRP\data/resources//[esx]/esx_society
+[   1188594] Found new resource esx_SQjob in G:/LostRP\data/resources//[esx]/esx_SQjob
+[   1188594] Found new resource esx_status in G:/LostRP\data/resources//[esx]/esx_status
+[   1188594] Found new resource esx_taxijob in G:/LostRP\data/resources//[esx]/esx_taxijob
+[   1188594] Found new resource esx_truckerjob in G:/LostRP\data/resources//[esx]/esx_truckerjob
+[   1188609] Found new resource esx_vehicleshop in G:/LostRP\data/resources//[esx]/esx_vehicleshop
+[   1188609] Found new resource esx_vote in G:/LostRP\data/resources//[esx]/esx_vote
+[   1188609] Found new resource esx_weashops in G:/LostRP\data/resources//[esx]/esx_weashops
+[   1188609] Found new resource esx_whitelist in G:/LostRP\data/resources//[esx]/esx_whitelist
+[   1188625] Found new resource skinchanger in G:/LostRP\data/resources//[esx]/skinchanger
+[   1188625] Found new resource race in G:/LostRP\data/resources//[gamemodes]/race
+[   1188625] Found new resource race-test in G:/LostRP\data/resources//[gamemodes]/race-test
+[   1188641] Found new resource channelfeed in G:/LostRP\data/resources//[gameplay]/channelfeed
+[   1188641] Found new resource irc in G:/LostRP\data/resources//[gameplay]/irc
+[   1188641] Found new resource obituary in G:/LostRP\data/resources//[gameplay]/obituary
+[   1188641] Found new resource obituary-deaths in G:/LostRP\data/resources//[gameplay]/obituary-deaths
+[   1188656] Found new resource playernames in G:/LostRP\data/resources//[gameplay]/playernames
+[   1188656] Found new resource mapmanager in G:/LostRP\data/resources//[managers]/mapmanager
+[   1188656] Found new resource assets in G:/LostRP\data/resources//[other]/assets
+[   1188656] Found new resource esx_moneywash in G:/LostRP\data/resources//[other]/esx_moneywash
+[   1188672] Found new resource loadingscreen in G:/LostRP\data/resources//[other]/loadingscreen
+[   1188672] Found new resource mellotrainer in G:/LostRP\data/resources//[other]/mellotrainer
+[   1188672] Found new resource pNotify in G:/LostRP\data/resources//[other]/pNotify
+[   1188688] Found new resource PoliceVehiclesWeaponDeleter in G:/LostRP\data/resources//[other]/PoliceVehiclesWeaponDeleter
+[   1188688] Found new resource radar in G:/LostRP\data/resources//[other]/radar
+[   1188688] Found new resource streetLabel in G:/LostRP\data/resources//[other]/streetLabel
+[   1188688] Found new resource baseevents in G:/LostRP\data/resources//[system]/baseevents
+[   1188703] Found new resource chat in G:/LostRP\data/resources//[system]/chat
+[   1188703] Found new resource hardcap in G:/LostRP\data/resources//[system]/hardcap
+[   1188703] Found new resource rconlog in G:/LostRP\data/resources//[system]/rconlog
+[   1188703] Found new resource scoreboard in G:/LostRP\data/resources//[system]/scoreboard
+[   1188719] Found new resource sessionmanager in G:/LostRP\data/resources//[system]/sessionmanager
+[   1188719] Found new resource spawnmanager in G:/LostRP\data/resources//[system]/spawnmanager
+[   1188719] Found new resource betaguns in G:/LostRP\data/resources//[test]/betaguns
+[   1188719] Found new resource gameInit in G:/LostRP\data/resources//[test]/gameInit
+[   1188734] Found new resource keks in G:/LostRP\data/resources//[test]/keks
+[   1188734] Found new resource esx_menu_default in G:/LostRP\data/resources//[esx]/[ui]/esx_menu_default
+[   1188734] Found new resource esx_menu_dialog in G:/LostRP\data/resources//[esx]/[ui]/esx_menu_dialog
+[   1188734] Found new resource esx_menu_list in G:/LostRP\data/resources//[esx]/[ui]/esx_menu_list
+[   1188766] Started resource sessionmanager
+[   1188828] Started resource assets
+[   1188844] Started resource mapmanager
+[   1189047] Started resource chat
+[   1189078] Started resource spawnmanager
+[   1189078] Stopping resource sessionmanager
+[   1189078] Started resource sessionmanager
+[   1189078] Started resource fivem
+[   1189094] Started gametype Freeroam
+[   1189094] Started resource hardcap
+[   1189094] Started resource rconlog
+[   1189219] Started resource scoreboard
+[   1189250] Started resource baseevents
+[   1189297] Started resource streetLabel
+[   1189313] Started resource govmansion
+[   1189328] Started resource TheWhiteHouse
+[   1189656] Loaded MySQLAsync.net, Version=2.0.1.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1944554974
+[   1189672] Instantiated instance of script MySQLAsync.MySQLAsync.
+[   1189672] Started resource mysql-async
+[   1189734] Started resource essentialmode
+[   1189797] Started resource es_admin2
+[   1189813] Started resource esplugin_mysql
+[   1189969] Started resource es_extended
+[   1190031] Started resource esx_moneywash
+[   1190063] Started resource esx_carwash
+[   1190078] Started resource es_camera
+[   1190078] Started resource esx_map
+[   1190156] Started resource pNotify
+[   1190172] Started resource esx_rpchat
+[   1190172] Started resource esx_whitelist
+[   1190281] Started resource esx_menu_default
+[   1190406] Started resource esx_menu_list
+[   1190531] Started resource esx_menu_dialog
+[   1190641] Started resource nb_menuperso
+[   1190859] Started resource esx_phone
+[   1190875] CRON STARTED [00:25]
+[   1190875] Started resource cron
+[   1190891] Started resource esx_addonaccount
+[   1190891] Started resource esx_addoninventory
+[   1190906] Started resource esx_datastore
+[   1190922] Started resource esx_billing
+[   1190953] Started resource esx_society
+[   1190984] Started resource esx_policejob
+[   1191000] Started resource esx_joblisting
+[   1191047] Started resource skinchanger
+[   1191078] Started resource esx_skin
+[   1191109] Started resource esx_ambulancejob
+[   1191141] Started resource esx_drugs
+[   1191156] Started resource esx_holdup
+[   1191172] Started resource esx_bank
+[   1191203] Started resource esx_mecanojob
+[   1191297] Started resource esx_jobs
+[   1191313] Started resource instance
+[   1191313] Started resource esx_service
+[   1191344] Started resource esx_property
+[   1191375] Started resource esx_garage
+[   1191391] Started resource esx_eden_garage
+[   1191422] Started resource esx_taxijob
+[   1191453] Started resource esx_busjob
+[   1191469] Started resource esx_clotheshop
+[   1191516] Started resource esx_atm
+[   1191531] Started resource esx_bankerjob
+[   1191578] Started resource esx_status
+[   1191594] Started resource esx_basicneeds
+[   1191656] Started resource esx_vehicleshop
+[   1191688] Started resource esx_realestateagentjob
+[   1191688] Started resource esx_weashops
+[   1191719] Started resource esx_shops
+[   1191734] Started resource esx_barbershop
+[   1191766] Started resource esx_mask
+[   1191781] Started resource esx_lscustom
+[   1191828] Started resource esx_sit
+[   1191844] Started resource esx_optionalneeds
+[   1191875] Started resource esx_animations
+[   1191922] Started resource esx_identity
+[   1191922] Started resource esx_license
+[   1191938] Connecting: Strinux<3
+[   1192094] Started resource esx_dmvschool
+[   1192141] Started resource esx_pharmacy
+[   1192172] Started resource esx_farmerjob
+[   1192188] Started resource esx_presidentjob
+[   1192219] Started resource esx_discojob
+[   1192250] Started resource esx_truckerjob
+[   1192266] Started resource esx_vote
+[   1192297] Started resource chasse
+[   1192359] Started resource radar
+[   1192578] Started resource loadingscreen
+[   1192625] Started resource bob74_ipl
+[   1192938] Started resource mellotrainer
+[   1192953] Started resource PoliceVehiclesWeaponDeleter
+[   1192953] Luxart Siren Script For FiveReborn
+[   1192969] Started resource ELS4FiveM
+[   1193000] Started resource pv-indicators
+[   1193078] Started resource esx_AdvancedFuel
+[   1193109] Started resource vehiclehealth
+[   1193141] Started resource sexyspeedometer
+[   1194500] Started resource LSPD
+[   1194578] Started resource Ambulance
+[   1194844] Started resource Sheriff
+[   1195047] Started resource FBI
+[   1195109] Started resource towtruck
+[   1195203] Started resource locksystem
+[   1195219] Started resource pv-cruisecontrol
+[   1195219] Could not open icon.png for reading.
+[   1195328] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[   1195328] Sending heartbeat to live-internal.fivem.net:30110
+[   1195328] 
+[   1195328] Current version: 5.0.0
+[   1195328] Updater version: 5.0.0
+[   1195328] 
+[   1195344] Everything is fine!
+[   1195344] 
+[   1195391] Started resource fivem-map-skater
+[   1195391] Started map fivem-map-skater
+[   1195438] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1944554974
+[   1195516] hitch warning: frame time of 247 milliseconds
+[   1195547] Loaded System.Threading.Tasks.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1944554974
+[   1195625] Loaded System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1944554974
+[   1195859] hitch warning: frame time of 340 milliseconds
+[   1196375] 
+[   1196375] Current MelloTrainer Version: 0.5.5
+[   1196375] Latest MelloTrainer Version: 0.5.5
+[   1196391] MelloTrainer is up to date!
+[   1196391] MELLOTRAINER: mtsaves folder found!
+[   1236859] Connecting: Strinux<3
+[   1239688] Sending heartbeat to live-internal.fivem.net:30110
+[   1275609] MELLOTRAINER: Strinux<3 has a save file.
+[   1276359] Successfully Loaded Identity For Lars Stoltenborg Stoltenborg
+[   1419750] Sending heartbeat to live-internal.fivem.net:30110
+[   1538578] Stopping resource esx_vehicleshop
+[   1538594] Started resource esx_vehicleshop
+[   1553375] Sending heartbeat to live-internal.fivem.net:30110
+[   1553625] [SAVED] Strinux<3
+[   1562344] Connecting: Strinux<3
+[   1564734] Sending heartbeat to live-internal.fivem.net:30110
+[   1581000] MELLOTRAINER: Strinux<3 has a save file.
+[   1581938] Successfully Loaded Identity For Lars Stoltenborg Stoltenborg
+[   1635859] Stopping resource esx_vehicleshop
+[   1635875] Started resource esx_vehicleshop
+[   1639563] Sending heartbeat to live-internal.fivem.net:30110
+[   1639906] [SAVED] Strinux<3
+[   1648094] Connecting: Strinux<3
+[   1650516] Sending heartbeat to live-internal.fivem.net:30110
+[   1666922] MELLOTRAINER: Strinux<3 has a save file.
+[   1667813] Successfully Loaded Identity For Lars Stoltenborg Stoltenborg
+[   1790359] [SAVED] Strinux<3
+[   1790359] [SAVED] All players
+[   1808453] Stopping resource esx_vehicleshop
+[   1808484] Started resource esx_vehicleshop
+[   1814703] Sending heartbeat to live-internal.fivem.net:30110
+[   1814953] [SAVED] Strinux<3
+[   1824313] Connecting: Strinux<3
+[   1826656] Sending heartbeat to live-internal.fivem.net:30110
+[   1836656] Sending heartbeat to live-internal.fivem.net:30110
+[   1941516] Connecting: Strinux<3
+[   1944297] Sending heartbeat to live-internal.fivem.net:30110
+[   1979016] MELLOTRAINER: Strinux<3 has a save file.
+[   1979969] Successfully Loaded Identity For Lars Stoltenborg Stoltenborg
+[   2124313] Sending heartbeat to live-internal.fivem.net:30110
+[   2304359] Sending heartbeat to live-internal.fivem.net:30110
+[   2390344] [SAVED] Strinux<3
+[   2390344] [SAVED] All players
+[   2484406] Sending heartbeat to live-internal.fivem.net:30110
+[   2607141] Sending heartbeat to live-internal.fivem.net:30110
+[   2607391] [SAVED] Strinux<3
+[        31] Initializing Mono
+[       406] Initializing Mono completed
+[       531] Hello!
+[      1093] Found new resource afkkick in G:/StrixNation\data/resources//afkkick
+[      1203] Found new resource ambulancier in G:/StrixNation\data/resources//ambulancier
+[      1218] Found new resource Apartments in G:/StrixNation\data/resources//Apartments
+[      1265] Found new resource assets in G:/StrixNation\data/resources//assets
+[      1265] Found new resource banking in G:/StrixNation\data/resources//banking
+[      1281] Found new resource blanchisseur in G:/StrixNation\data/resources//blanchisseur
+[      1312] Found new resource briks in G:/StrixNation\data/resources//briks
+[      1359] Found new resource car in G:/StrixNation\data/resources//car
+[      1359] Found new resource carhud in G:/StrixNation\data/resources//carhud
+[      1359] Found new resource carwash in G:/StrixNation\data/resources//carwash
+[      1375] Found new resource clothing in G:/StrixNation\data/resources//clothing
+[      1390] Found new resource co_locvelo in G:/StrixNation\data/resources//co_locvelo
+[      1390] Found new resource crouch in G:/StrixNation\data/resources//crouch
+[      1390] Found new resource cv_control in G:/StrixNation\data/resources//cv_control
+[      1406] Found new resource disclaimer in G:/StrixNation\data/resources//disclaimer
+[      1406] Found new resource dmvschool in G:/StrixNation\data/resources//dmvschool
+[      1437] Found new resource drag in G:/StrixNation\data/resources//drag
+[      1437] Found new resource essentialmode in G:/StrixNation\data/resources//essentialmode
+[      1468] Found new resource es_admin in G:/StrixNation\data/resources//es_admin
+[      1468] Found new resource es_AdvancedFuel in G:/StrixNation\data/resources//es_AdvancedFuel
+[      1515] Found new resource es_freeroam in G:/StrixNation\data/resources//es_freeroam
+[      1546] Found new resource es_robberies in G:/StrixNation\data/resources//es_robberies
+[      1546] Found new resource fcustoms in G:/StrixNation\data/resources//fcustoms
+[      1546] Found new resource fivem in G:/StrixNation\data/resources//fivem
+[      1578] Found new resource fivem-awesome1501 in G:/StrixNation\data/resources//fivem-awesome1501
+[      1578] Found new resource fivem-map-hipster in G:/StrixNation\data/resources//fivem-map-hipster
+[      1578] Found new resource fivem-map-skater in G:/StrixNation\data/resources//fivem-map-skater
+[      1593] Found new resource ft_menuBuilder in G:/StrixNation\data/resources//ft_menuBuilder
+[      1609] Found new resource FX in G:/StrixNation\data/resources//FX
+[      1625] Found new resource gb_vocal in G:/StrixNation\data/resources//gb_vocal
+[      1640] Found new resource gcidentity in G:/StrixNation\data/resources//gcidentity
+[      1640] Found new resource gcillegal in G:/StrixNation\data/resources//gcillegal
+[      1687] Found new resource gcInteraction in G:/StrixNation\data/resources//gcInteraction
+[      1703] Found new resource gcphone in G:/StrixNation\data/resources//gcphone
+[      1750] Found new resource gc_utils in G:/StrixNation\data/resources//gc_utils
+[      1750] Found new resource gunlicense in G:/StrixNation\data/resources//gunlicense
+[      1750] Found new resource gunshop in G:/StrixNation\data/resources//gunshop
+[      1765] Found new resource handsup in G:/StrixNation\data/resources//handsup
+[      1765] Found new resource indicators in G:/StrixNation\data/resources//indicators
+[      1781] Found new resource Jailer in G:/StrixNation\data/resources//Jailer
+[      1781] Found new resource juvel in G:/StrixNation\data/resources//juvel
+[      1796] Found new resource knockout in G:/StrixNation\data/resources//knockout
+[      1796] Found new resource lastpostodb in G:/StrixNation\data/resources//lastpostodb
+[      1812] Found new resource metiers in G:/StrixNation\data/resources//metiers
+[      1828] Found new resource MissionText in G:/StrixNation\data/resources//MissionText
+[      1843] Found new resource msq-directions-hud in G:/StrixNation\data/resources//msq-directions-hud
+[      1843] Found new resource mysql-async in G:/StrixNation\data/resources//mysql-async
+[      1875] Found new resource NeverWanted in G:/StrixNation\data/resources//NeverWanted
+[      1875] Found new resource NoDriveBy in G:/StrixNation\data/resources//NoDriveBy
+[      1890] Found new resource ooc in G:/StrixNation\data/resources//ooc
+[      1890] Found new resource paycheck in G:/StrixNation\data/resources//paycheck
+[      1890] Found new resource player_state in G:/StrixNation\data/resources//player_state
+[      1921] Found new resource ply_garages in G:/StrixNation\data/resources//ply_garages
+[      1968] Found new resource ply_prefecture in G:/StrixNation\data/resources//ply_prefecture
+[      1968] Found new resource ply_vipslot in G:/StrixNation\data/resources//ply_vipslot
+[      2000] Found new resource pNotify in G:/StrixNation\data/resources//pNotify
+[      2015] Found new resource pointing in G:/StrixNation\data/resources//pointing
+[      2031] Found new resource simple-loading in G:/StrixNation\data/resources//simple-loading
+[      2031] Found new resource sirencontrols in G:/StrixNation\data/resources//sirencontrols
+[      2046] Found new resource skin in G:/StrixNation\data/resources//skin
+[      2046] Found new resource taxi in G:/StrixNation\data/resources//taxi
+[      2046] Found new resource TruckerJob in G:/StrixNation\data/resources//TruckerJob
+[      2062] Found new resource vdk_inventory in G:/StrixNation\data/resources//vdk_inventory
+[      2062] Found new resource vdk_recolt in G:/StrixNation\data/resources//vdk_recolt
+[      2062] Found new resource vdk_truck in G:/StrixNation\data/resources//vdk_truck
+[      2078] Found new resource watermark in G:/StrixNation\data/resources//watermark
+[      2093] Found new resource race in G:/StrixNation\data/resources//[gamemodes]/race
+[      2093] Found new resource race-test in G:/StrixNation\data/resources//[gamemodes]/race-test
+[      2093] Found new resource channelfeed in G:/StrixNation\data/resources//[gameplay]/channelfeed
+[      2109] Found new resource irc in G:/StrixNation\data/resources//[gameplay]/irc
+[      2109] Found new resource obituary in G:/StrixNation\data/resources//[gameplay]/obituary
+[      2125] Found new resource obituary-deaths in G:/StrixNation\data/resources//[gameplay]/obituary-deaths
+[      2125] Found new resource mapmanager in G:/StrixNation\data/resources//[managers]/mapmanager
+[      2140] Found new resource baseevents in G:/StrixNation\data/resources//[system]/baseevents
+[      2140] Found new resource chat in G:/StrixNation\data/resources//[system]/chat
+[      2156] Found new resource hardcap in G:/StrixNation\data/resources//[system]/hardcap
+[      2171] Found new resource rconlog in G:/StrixNation\data/resources//[system]/rconlog
+[      2171] Found new resource scoreboard in G:/StrixNation\data/resources//[system]/scoreboard
+[      2171] Found new resource sessionmanager in G:/StrixNation\data/resources//[system]/sessionmanager
+[      2187] Found new resource spawnmanager in G:/StrixNation\data/resources//[system]/spawnmanager
